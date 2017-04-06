@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\10. Half Sum Element\bin\Debug\_10.Half_Sum_Element.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\10. Half Sum Element\obj\Debug\_10.Half_Sum_Element.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\10. Half Sum Element\obj\Debug\_10.Half_Sum_Element.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\10. Half Sum Element\obj\Debug\10. Half Sum Element.csprojResolveAssemblyReference.cache

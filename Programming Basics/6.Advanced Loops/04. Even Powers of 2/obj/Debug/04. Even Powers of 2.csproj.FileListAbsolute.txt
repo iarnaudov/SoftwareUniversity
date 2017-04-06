@@ -1,5 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe
-D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.pdb
-D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.exe
-D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.pdb

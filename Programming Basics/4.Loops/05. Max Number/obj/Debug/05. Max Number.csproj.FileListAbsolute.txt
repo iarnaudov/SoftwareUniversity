@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\05. Max Number\bin\Debug\_05.Max_Number.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\05. Max Number\bin\Debug\_05.Max_Number.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\05. Max Number\bin\Debug\_05.Max_Number.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\05. Max Number\obj\Debug\_05.Max_Number.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\05. Max Number\obj\Debug\_05.Max_Number.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\05. Max Number\obj\Debug\05. Max Number.csprojResolveAssemblyReference.cache

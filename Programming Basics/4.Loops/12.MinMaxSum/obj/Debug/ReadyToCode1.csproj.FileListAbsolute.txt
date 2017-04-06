@@ -1,5 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\ReadyToCode1\bin\Debug\ReadyToCode1.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\ReadyToCode1\bin\Debug\ReadyToCode1.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\ReadyToCode1\bin\Debug\ReadyToCode1.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\ReadyToCode1\obj\Debug\ReadyToCode1.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\ReadyToCode1\obj\Debug\ReadyToCode1.pdb

@@ -1,3 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12.MinMaxSum\bin\Debug\ReadyToCode1.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12.MinMaxSum\obj\Debug\ReadyToCode1.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12.MinMaxSum\obj\Debug\ReadyToCode1.pdb

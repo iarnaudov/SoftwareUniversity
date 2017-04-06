@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.pdb
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\06. Point on Rectangle Border\obj\Debug\06. Point on Rectangle Border.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.pdb

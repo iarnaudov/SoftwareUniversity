@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb

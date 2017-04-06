@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\04. Back To The Past\bin\Debug\_04.Back_To_The_Past.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\04. Back To The Past\bin\Debug\_04.Back_To_The_Past.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\04. Back To The Past\bin\Debug\_04.Back_To_The_Past.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\04. Back To The Past\obj\Debug\04. Back To The Past.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\04. Back To The Past\obj\Debug\_04.Back_To_The_Past.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\04. Back To The Past\obj\Debug\_04.Back_To_The_Past.pdb

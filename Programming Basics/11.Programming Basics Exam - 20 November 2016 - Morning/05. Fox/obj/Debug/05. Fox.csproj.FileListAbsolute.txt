@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\05. Fox.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\_05.Fox.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\05. Fox\obj\Debug\_05.Fox.pdb

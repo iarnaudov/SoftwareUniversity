@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\05.Demo\bin\Debug\05.Demo.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\05.Demo\bin\Debug\05.Demo.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\05.Demo\bin\Debug\05.Demo.pdb
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\05.Demo\obj\Debug\05.Demo.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\05.Demo\obj\Debug\05.Demo.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\05.Demo\obj\Debug\05.Demo.pdb

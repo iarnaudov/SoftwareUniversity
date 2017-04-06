@@ -1,5 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\5.Figures\05.Square Frame\bin\Debug\05.Square Frame.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\5.Figures\05.Square Frame\bin\Debug\05.Square Frame.exe
-D:\Програмиране\Homeworks\SoftUniExams\5.Figures\05.Square Frame\bin\Debug\05.Square Frame.pdb
-D:\Програмиране\Homeworks\SoftUniExams\5.Figures\05.Square Frame\obj\Debug\05.Square Frame.exe
-D:\Програмиране\Homeworks\SoftUniExams\5.Figures\05.Square Frame\obj\Debug\05.Square Frame.pdb

@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\bin\Debug\_01.House_Price.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\bin\Debug\_01.House_Price.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\bin\Debug\_01.House_Price.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\obj\Debug\01. House Price.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\obj\Debug\_01.House_Price.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\01. House Price\obj\Debug\_01.House_Price.pdb

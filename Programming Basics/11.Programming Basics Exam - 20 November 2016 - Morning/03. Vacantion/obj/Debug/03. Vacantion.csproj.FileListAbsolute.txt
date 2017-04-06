@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\03. Vacantion\bin\Debug\_03.Vacantion.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\03. Vacantion\bin\Debug\_03.Vacantion.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\03. Vacantion\bin\Debug\_03.Vacantion.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\03. Vacantion\obj\Debug\03. Vacantion.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\03. Vacantion\obj\Debug\_03.Vacantion.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\03. Vacantion\obj\Debug\_03.Vacantion.pdb
