@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\bin\Debug\_06.Max_Combination.pdb
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\obj\Debug\06. Max Combination.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\obj\Debug\_06.Max_Combination.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\06. Max Combination\obj\Debug\_06.Max_Combination.pdb

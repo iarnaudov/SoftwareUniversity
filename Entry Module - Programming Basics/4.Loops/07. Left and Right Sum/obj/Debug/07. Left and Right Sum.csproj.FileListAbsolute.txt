@@ -1,0 +1,5 @@
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb

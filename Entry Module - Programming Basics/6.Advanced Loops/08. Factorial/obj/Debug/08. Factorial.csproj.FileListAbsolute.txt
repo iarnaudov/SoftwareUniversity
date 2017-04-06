@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\08. Factorial\bin\Debug\_08.Factorial.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\08. Factorial\bin\Debug\_08.Factorial.exe
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\08. Factorial\bin\Debug\_08.Factorial.pdb
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\08. Factorial\obj\Debug\08. Factorial.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\08. Factorial\obj\Debug\_08.Factorial.exe
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\08. Factorial\obj\Debug\_08.Factorial.pdb

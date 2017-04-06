@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\02. Small Shop\bin\Debug\_02.Small_Shop.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\02. Small Shop\bin\Debug\_02.Small_Shop.exe
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\02. Small Shop\bin\Debug\_02.Small_Shop.pdb
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\02. Small Shop\obj\Debug\_02.Small_Shop.exe
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\02. Small Shop\obj\Debug\_02.Small_Shop.pdb
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\02. Small Shop\obj\Debug\02. Small Shop.csprojResolveAssemblyReference.cache

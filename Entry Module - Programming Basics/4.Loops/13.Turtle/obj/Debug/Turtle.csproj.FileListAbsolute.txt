@@ -1,0 +1,13 @@
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\bin\Debug\Turtle.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\bin\Debug\Turtle.exe
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\bin\Debug\Turtle.pdb
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\bin\Debug\Nakov.TurtleGraphics.dll
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\obj\Debug\Turtle.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\obj\Debug\Turtle.Form1.resources
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\obj\Debug\Turtle.Properties.Resources.resources
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\obj\Debug\Turtle.csproj.GenerateResource.Cache
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\obj\Debug\Turtle.exe
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\Turtle\obj\Debug\Turtle.pdb
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\13.Turtle\bin\Debug\Turtle.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\13.Turtle\obj\Debug\Turtle.exe
+D:\Програмиране\Homeworks\SoftUniExams\4.Loops\13.Turtle\obj\Debug\Turtle.pdb

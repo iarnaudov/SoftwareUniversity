@@ -1,0 +1,5 @@
+D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\02.InchesToCentimeters\bin\Debug\02.InchesToCentimeters.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\02.InchesToCentimeters\bin\Debug\02.InchesToCentimeters.exe
+D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\02.InchesToCentimeters\bin\Debug\02.InchesToCentimeters.pdb
+D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\02.InchesToCentimeters\obj\Debug\02.InchesToCentimeters.exe
+D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\02.InchesToCentimeters\obj\Debug\02.InchesToCentimeters.pdb

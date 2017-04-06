@@ -1,0 +1,9 @@
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\01. Distance\bin\Debug\_01.Distance.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\01. Distance\bin\Debug\_01.Distance.exe
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\01. Distance\bin\Debug\_01.Distance.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\01. Distance\obj\Debug\01. Distance.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\01. Distance\obj\Debug\_01.Distance.exe
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\01. Distance\obj\Debug\_01.Distance.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\01. Distance\bin\Debug\_01.Distance.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\01. Distance\obj\Debug\_01.Distance.exe
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\01. Distance\obj\Debug\_01.Distance.pdb
