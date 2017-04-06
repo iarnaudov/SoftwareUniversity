@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\06.Rhombus of Stars\bin\Debug\06.Rhombus of Stars.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\06.Rhombus of Stars\bin\Debug\06.Rhombus of Stars.exe
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\06.Rhombus of Stars\bin\Debug\06.Rhombus of Stars.pdb
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\06.Rhombus of Stars\obj\Debug\06.Rhombus of Stars.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\06.Rhombus of Stars\obj\Debug\06.Rhombus of Stars.exe
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\06.Rhombus of Stars\obj\Debug\06.Rhombus of Stars.pdb

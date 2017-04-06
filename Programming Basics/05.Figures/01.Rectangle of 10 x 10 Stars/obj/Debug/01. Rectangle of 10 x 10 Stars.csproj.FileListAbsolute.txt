@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\01.Rectangle of 10 x 10 Stars\bin\Debug\Rectangle of 10 x 10 Stars.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\01.Rectangle of 10 x 10 Stars\obj\Debug\Rectangle of 10 x 10 Stars.exe
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\01.Rectangle of 10 x 10 Stars\obj\Debug\Rectangle of 10 x 10 Stars.pdb
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\01.Rectangle of 10 x 10 Stars\bin\Debug\Rectangle of 10 x 10 Stars.exe
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\01.Rectangle of 10 x 10 Stars\bin\Debug\Rectangle of 10 x 10 Stars.pdb
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\01.Rectangle of 10 x 10 Stars\obj\Debug\01. Rectangle of 10 x 10 Stars.csprojResolveAssemblyReference.cache

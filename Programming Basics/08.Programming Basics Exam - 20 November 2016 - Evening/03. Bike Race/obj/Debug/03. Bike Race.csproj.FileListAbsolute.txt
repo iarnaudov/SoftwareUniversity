@@ -1,0 +1,5 @@
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\bin\Debug\_03.Bike_Race.pdb
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\obj\Debug\_03.Bike_Race.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\03. Bike Race\obj\Debug\_03.Bike_Race.pdb

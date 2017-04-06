@@ -1,0 +1,12 @@
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\02. Change Tiles\bin\Debug\_02.Change_Tiles.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\02. Change Tiles\obj\Debug\02. Change Tiles.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\02. Change Tiles\obj\Debug\_02.Change_Tiles.exe
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\02. Change Tiles\obj\Debug\_02.Change_Tiles.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\02. Change Tiles\obj\Debug\_02.Change_Tiles.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\02. Change Tiles\bin\Debug\_02.Change_Tiles.exe
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\02. Change Tiles\bin\Debug\_02.Change_Tiles.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\02. Change Tiles\obj\Debug\02. Change Tiles.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\02. Change Tiles\obj\Debug\_02.Change_Tiles.exe

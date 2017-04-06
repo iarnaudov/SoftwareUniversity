@@ -1,0 +1,10 @@
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\05.Christmas hat explained\bin\Debug\05.Christmas hat explained.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\05.Christmas hat explained\bin\Debug\05.Christmas hat explained.exe
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\05.Christmas hat explained\bin\Debug\05.Christmas hat explained.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\05.Christmas hat explained\obj\Debug\05.Christmas hat explained.exe
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\05.Christmas hat explained\obj\Debug\05.Christmas hat explained.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\05.Christmas hat explained\bin\Debug\05.Christmas hat explained.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\05.Christmas hat explained\obj\Debug\05.Christmas hat explained.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\05.Christmas hat explained\bin\Debug\05.Christmas hat explained.exe
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\05.Christmas hat explained\bin\Debug\05.Christmas hat explained.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\05.Christmas hat explained\obj\Debug\05.Christmas hat explained.exe

@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.exe
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\13. Point in the Figure\bin\Debug\_13.Point_in_the_Figure.pdb
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\13. Point in the Figure\obj\Debug\13. Point in the Figure.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\13. Point in the Figure\obj\Debug\_13.Point_in_the_Figure.exe
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\13. Point in the Figure\obj\Debug\_13.Point_in_the_Figure.pdb

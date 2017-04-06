@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\bin\Debug\_02.Pets.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\bin\Debug\_02.Pets.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\bin\Debug\_02.Pets.pdb
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\obj\Debug\_02.Pets.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\obj\Debug\_02.Pets.pdb
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\02. Pets\obj\Debug\02. Pets.csprojResolveAssemblyReference.cache

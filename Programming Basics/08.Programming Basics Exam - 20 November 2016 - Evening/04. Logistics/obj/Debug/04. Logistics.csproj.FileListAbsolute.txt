@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\obj\Debug\04. Logistics.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\bin\Debug\_04.Logistics.pdb
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\obj\Debug\_04.Logistics.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\04. Logistics\obj\Debug\_04.Logistics.pdb

@@ -1,0 +1,12 @@
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\04. Grades\bin\Debug\_04.Grades.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\04. Grades\bin\Debug\_04.Grades.exe
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\04. Grades\bin\Debug\_04.Grades.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\04. Grades\obj\Debug\04. Grades.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\04. Grades\obj\Debug\_04.Grades.exe
+D:\Програмиране\Homeworks\SoftUniExams\7.ExamTests\04. Grades\obj\Debug\_04.Grades.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\04. Grades\bin\Debug\_04.Grades.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\04. Grades\obj\Debug\_04.Grades.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\04. Grades\bin\Debug\_04.Grades.exe
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\04. Grades\bin\Debug\_04.Grades.pdb
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\04. Grades\obj\Debug\04. Grades.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\7. Programming Basics Exam - 18 December 2016\04. Grades\obj\Debug\_04.Grades.exe

@@ -1,0 +1,5 @@
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\05. Rocket\bin\Debug\_05.Rocket.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\05. Rocket\bin\Debug\_05.Rocket.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\05. Rocket\bin\Debug\_05.Rocket.pdb
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\05. Rocket\obj\Debug\_05.Rocket.exe
+D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Evening\05. Rocket\obj\Debug\_05.Rocket.pdb
