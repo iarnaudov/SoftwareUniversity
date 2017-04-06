@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\03.Square of Stars\bin\Debug\03.Square of Stars.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\03.Square of Stars\bin\Debug\03.Square of Stars.exe
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\03.Square of Stars\bin\Debug\03.Square of Stars.pdb
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\03.Square of Stars\obj\Debug\03.Square of Stars.exe
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\03.Square of Stars\obj\Debug\03.Square of Stars.pdb
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\03.Square of Stars\obj\Debug\03.Square of Stars.csprojResolveAssemblyReference.cache

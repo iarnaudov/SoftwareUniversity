@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\02. Company\bin\Debug\_02.Company.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\02. Company\bin\Debug\_02.Company.exe
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\02. Company\bin\Debug\_02.Company.pdb
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\02. Company\obj\Debug\_02.Company.exe
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\02. Company\obj\Debug\_02.Company.pdb
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\02. Company\obj\Debug\02. Company.csprojResolveAssemblyReference.cache

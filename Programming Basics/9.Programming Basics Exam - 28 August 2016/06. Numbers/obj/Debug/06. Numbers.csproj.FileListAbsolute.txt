@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\06. Numbers\bin\Debug\_06.Numbers.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\06. Numbers\bin\Debug\_06.Numbers.exe
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\06. Numbers\bin\Debug\_06.Numbers.pdb
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\06. Numbers\obj\Debug\06. Numbers.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\06. Numbers\obj\Debug\_06.Numbers.exe
+D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\06. Numbers\obj\Debug\_06.Numbers.pdb

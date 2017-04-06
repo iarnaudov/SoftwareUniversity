@@ -1,0 +1,6 @@
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\10. Check Prime\obj\Debug\10. Check Prime.csprojResolveAssemblyReference.cache
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+D:\Програмиране\Homeworks\SoftUniExams\6.Advanced Loops\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

@@ -1,0 +1,5 @@
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.exe
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.pdb
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.exe
+D:\Програмиране\Homeworks\SoftUniExams\5.Figures\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.pdb

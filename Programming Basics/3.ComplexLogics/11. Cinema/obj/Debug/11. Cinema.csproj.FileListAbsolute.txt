@@ -1,0 +1,5 @@
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\11. Cinema\bin\Debug\_11.Cinema.exe.config
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\11. Cinema\bin\Debug\_11.Cinema.exe
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\11. Cinema\bin\Debug\_11.Cinema.pdb
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\11. Cinema\obj\Debug\_11.Cinema.exe
+D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\11. Cinema\obj\Debug\_11.Cinema.pdb
