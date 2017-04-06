@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+	<title>Problem 1 Reg Form</title>
+  <style >
+    th {text-align: right;}
+    input[type=number]{width: 35px;}
+  </style>
+</head>
+<body>
+	<form id="regForm" title="Registration Form">
+		<table align="center" border="1" cellspacing="0" bgcolor="#EEEEEE">
+		<colgroup>
+			<col width="150"/>
+			<col />
+		</colgroup>
+			<tbody>
+				<tr id="1">
+					<th>Last Name</th>
+					<td>
+						<input id="lastName" type="text" size="30" />
+					</td>
+				</tr>
+				<tr id="2">
+					<th>First Name</th>
+					<td>
+						<input id="firstName" type="text" size="30" />
+					</td>
+				</tr>
+				<tr id="3">
+					<th>Address</th>
+					<td>
+						<textarea id="address" form="regForm" rows="3" cols="30"></textarea>
+					</td>
+				</tr>
+				<tr id="4">
+					<th>City</th>
+					<td>
+						<input id="city" type="text" size="14" />
+						State <input id="state" type="text" size="6" />
+					</td>
+				</tr>
+				<tr id="5">
+					<th>Zip/Postal Code</th>
+					<td>
+						<input id="zipCode" type="text" size="10" />
+					</td>
+				</tr>
+				<tr id="6">
+					<th>Country</th>
+					<td>
+						<select id="country" style="width: 150px">
+							<option value="Bulgaria">
+								Bulgaria
+							</option>
+							<option value="Greece">
+								Greece
+							</option>
+							<option value="Radnevo">
+								Radnevo
+							</option>
+							<option selected="selected" value="Other">
+								Other
+							</option>
+						</select>
+					</td>
+				</tr>
+				<tr id="7">
+					<th>Phone(country code, area code, number)</th>
+					<td>
+						(+<input id="countryCode" type="tel" style="width:50px; text-align: right;" placeholder="359" />)
+						<input id="areaCode" type="tel" style="width:50px; text-align: right;" placeholder="32" />
+						<input id="phone" type="tel" style="width:80px; text-align: right;" placeholder="123456" />
+					</td>
+				</tr>
+				<tr id="8">
+					<th>Email</th>
+					<td>
+						<input id="email" type="email" size="20" placeholder="example@email.com" />
+					</td>
+				</tr>
+				<tr id="9">
+					<th>Birth Date</th>
+					<td>
+          Month
+          <input type="number" min="1" maxlength="2" max="12"/>
+          Date
+          <input type="number" min="1" maxlength="2" max="31"/>
+          Year
+          <input type="number" min="1931" maxlength="4" max="2017"/>
+					</td>
+				</tr>
+				<tr id="10">
+					<th>Gender</th>
+					<td>
+						<select id="gender" >
+							<option value="Male">
+								Male
+							</option>
+							<option value="Female">
+								Female
+							</option>
+						</select>
+					</td>
+				</tr>
+				<tr id="11">
+					<th>Starting Date</th>
+					<td>
+						<input id="radioSpring" type="radio" name="season" />
+						<label for="radioSpring">Spring 2015</label>
+						<input id="radioSummer" type="radio" name="season" />
+						<label for="radioSummer">Summer 2015</label>
+					</td>
+				</tr>
+				<tr id="12">
+					<th>Comments/Qustions</th>
+					<td>
+						<textarea id="comments" form="regForm" rows="5" cols="30"></textarea>
+					</td>
+				</tr>
+			</tbody>
+			<tfoot align="center">
+				<tr>
+					<td colspan="2" bgcolor="#8E8E8E">
+						<input id="submit" type="submit" value="Submit" />
+						<input id="reset" type="reset" value="Reset Form" />
+					</td>
+				</tr>
+			</tfoot>
+		</table>
+	</form>
+</body>
+</html>
