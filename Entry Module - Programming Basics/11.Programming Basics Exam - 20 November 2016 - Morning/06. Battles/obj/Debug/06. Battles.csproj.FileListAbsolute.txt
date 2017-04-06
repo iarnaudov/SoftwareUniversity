@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\obj\Debug\06. Battles.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\obj\Debug\_06.Battles.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 20 November 2016 - Morning\06. Battles\obj\Debug\_06.Battles.pdb

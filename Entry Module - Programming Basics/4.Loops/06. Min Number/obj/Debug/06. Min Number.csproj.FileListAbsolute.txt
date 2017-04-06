@@ -1,5 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\06. Min Number\bin\Debug\_06.Min_Number.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\06. Min Number\bin\Debug\_06.Min_Number.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\06. Min Number\bin\Debug\_06.Min_Number.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\06. Min Number\obj\Debug\_06.Min_Number.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\06. Min Number\obj\Debug\_06.Min_Number.pdb

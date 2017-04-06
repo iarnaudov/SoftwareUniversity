@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\01. DailyProfit\bin\Debug\_01.DailyProfit.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\01. DailyProfit\bin\Debug\_01.DailyProfit.exe
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\01. DailyProfit\bin\Debug\_01.DailyProfit.pdb
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\01. DailyProfit\obj\Debug\01. DailyProfit.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\01. DailyProfit\obj\Debug\_01.DailyProfit.exe
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\01. DailyProfit\obj\Debug\_01.DailyProfit.pdb

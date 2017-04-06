@@ -1,5 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb

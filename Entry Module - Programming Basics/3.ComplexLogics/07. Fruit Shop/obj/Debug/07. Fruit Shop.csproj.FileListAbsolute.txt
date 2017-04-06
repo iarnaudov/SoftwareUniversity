@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.pdb
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\07. Fruit Shop\obj\Debug\07. Fruit Shop.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.pdb

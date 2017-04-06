@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12. Equal Pairs\obj\Debug\12. Equal Pairs.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.pdb

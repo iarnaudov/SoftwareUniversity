@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\05. Axe\bin\Debug\_05.Axe.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\05. Axe\bin\Debug\_05.Axe.exe
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\05. Axe\bin\Debug\_05.Axe.pdb
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\05. Axe\obj\Debug\05. Axe.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\05. Axe\obj\Debug\_05.Axe.exe
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\05. Axe\obj\Debug\_05.Axe.pdb

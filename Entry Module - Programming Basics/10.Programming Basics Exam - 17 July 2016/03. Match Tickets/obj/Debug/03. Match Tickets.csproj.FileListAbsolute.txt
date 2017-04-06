@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\03. Match Tickets\bin\Debug\_03.Match_Tickets.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\03. Match Tickets\obj\Debug\03. Match Tickets.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\03. Match Tickets\obj\Debug\_03.Match_Tickets.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\03. Match Tickets\obj\Debug\_03.Match_Tickets.pdb

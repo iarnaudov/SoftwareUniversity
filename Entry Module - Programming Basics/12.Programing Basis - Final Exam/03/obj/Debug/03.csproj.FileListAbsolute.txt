@@ -1,5 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\03\bin\Debug\03.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\03\bin\Debug\03.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\03\bin\Debug\03.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\03\obj\Debug\03.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\03\obj\Debug\03.pdb

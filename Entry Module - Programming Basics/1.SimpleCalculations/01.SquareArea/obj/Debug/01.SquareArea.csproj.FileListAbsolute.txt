@@ -1,9 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\1.SimpleCalculations\bin\Debug\1.SimpleCalculations.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\1.SimpleCalculations\bin\Debug\1.SimpleCalculations.exe
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\1.SimpleCalculations\bin\Debug\1.SimpleCalculations.pdb
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\1.SimpleCalculations\obj\Debug\01.SquareArea.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\1.SimpleCalculations\obj\Debug\1.SimpleCalculations.exe
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\1.SimpleCalculations\obj\Debug\1.SimpleCalculations.pdb
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\01.SquareArea\bin\Debug\1.SimpleCalculations.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\01.SquareArea\obj\Debug\1.SimpleCalculations.exe
-D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\01.SquareArea\obj\Debug\1.SimpleCalculations.pdb

@@ -1,5 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\03. Hotel Room\bin\Debug\_03.Hotel_Room.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\03. Hotel Room\bin\Debug\_03.Hotel_Room.exe
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\03. Hotel Room\bin\Debug\_03.Hotel_Room.pdb
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\03. Hotel Room\obj\Debug\_03.Hotel_Room.exe
-D:\Програмиране\Homeworks\SoftUniExams\9.Programming Basics Exam - 28 August 2016\03. Hotel Room\obj\Debug\_03.Hotel_Room.pdb

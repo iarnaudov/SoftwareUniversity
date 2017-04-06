@@ -1,5 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\02. Harvest\bin\Debug\_02.Harvest.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\02. Harvest\bin\Debug\_02.Harvest.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\02. Harvest\bin\Debug\_02.Harvest.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\02. Harvest\obj\Debug\_02.Harvest.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programming Basics Exam - 17 July 2016\02. Harvest\obj\Debug\_02.Harvest.pdb

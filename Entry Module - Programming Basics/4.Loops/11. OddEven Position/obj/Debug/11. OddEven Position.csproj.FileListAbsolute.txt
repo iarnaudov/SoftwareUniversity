@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\11. OddEven Position\bin\Debug\_11.OddEven_Position.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\11. OddEven Position\bin\Debug\_11.OddEven_Position.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\11. OddEven Position\bin\Debug\_11.OddEven_Position.pdb
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\11. OddEven Position\obj\Debug\11. OddEven Position.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\11. OddEven Position\obj\Debug\_11.OddEven_Position.exe
-D:\Програмиране\Homeworks\SoftUniExams\4.Loops\11. OddEven Position\obj\Debug\_11.OddEven_Position.pdb

@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\12. Volleyball\bin\Debug\_12.Volleyball.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\12. Volleyball\bin\Debug\_12.Volleyball.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\12. Volleyball\bin\Debug\_12.Volleyball.pdb
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\12. Volleyball\obj\Debug\12. Volleyball.csprojResolveAssemblyReference.cache
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\12. Volleyball\obj\Debug\_12.Volleyball.exe
-D:\Програмиране\Homeworks\SoftUniExams\3.ComplexLogics\12. Volleyball\obj\Debug\_12.Volleyball.pdb

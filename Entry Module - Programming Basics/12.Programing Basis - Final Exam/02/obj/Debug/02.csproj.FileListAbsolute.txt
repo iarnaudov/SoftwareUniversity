@@ -1,6 +1,0 @@
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\02\bin\Debug\02.exe.config
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\02\obj\Debug\02.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\02\obj\Debug\02.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\02\bin\Debug\02.exe
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\02\bin\Debug\02.pdb
-D:\Програмиране\Homeworks\SoftUniExams\Programing Basis - Final Exam\02\obj\Debug\02.csprojResolveAssemblyReference.cache
