@@ -1,1 +1,7 @@
 D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\05. Trapezoid-Area\bin\Debug\_05.Trapezoid_Area.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\05. Trapezoid-Area\bin\Debug\_05.Trapezoid_Area.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\05. Trapezoid-Area\bin\Debug\_05.Trapezoid_Area.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\05. Trapezoid-Area\bin\Debug\_05.Trapezoid_Area.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\05. Trapezoid-Area\obj\Debug\05. Trapezoid-Area.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\05. Trapezoid-Area\obj\Debug\_05.Trapezoid_Area.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\05. Trapezoid-Area\obj\Debug\_05.Trapezoid_Area.pdb

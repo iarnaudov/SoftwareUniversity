@@ -1,1 +1,7 @@
 D:\Програмиране\Homeworks\SoftUniExams\1.SimpleCalculations\03.Greeting\bin\Debug\03.Greeting.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\03.Greeting\bin\Debug\03.Greeting.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\03.Greeting\bin\Debug\03.Greeting.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\03.Greeting\bin\Debug\03.Greeting.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\03.Greeting\obj\Debug\03.Greeting.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\03.Greeting\obj\Debug\03.Greeting.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Basics\01.SimpleCalculations\03.Greeting\obj\Debug\03.Greeting.pdb
