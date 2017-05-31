@@ -1,0 +1,123 @@
+@media only screen and (min-width: 700px) and (max-width: 1200px) { 
+  html.no-js body div.wrap section.content.bordered div.wrapper section.content-wrap.two-col {
+    display:flex;
+    flex-wrap:wrap;
+  }
+  html.no-js body div.wrap section.content.bordered div.wrapper section.content-wrap.two-col div.col {
+    margin: 20px;
+  }
+  html.no-js body div.wrap section.content.bordered div.wrapper,
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper {
+    width:100%;
+  }
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper div.content-wrap.content-wrap-full {
+    margin: 80px 20px 20px 20px;
+  }
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper a.large-text-link {
+    margin: 20px;
+  }
+  html.no-js body div.wrap section.content.sponsors div.wrapper,
+  html.no-js body div.wrap section.content.sponsors div.wrapper div.content-wrap-full {
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  html.no-js body div.wrap footer.main-foot div.wrapper {
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+  }
+  html.no-js body div.wrap footer.main-foot div.wrapper address {
+    flex:1 40%;
+    margin:20px;
+  }
+  html.no-js body div.wrap footer.main-foot div.wrapper nav {
+    flex:1 40%;
+     margin:20px;
+  }
+}
+@media only screen and  (max-width: 700px) {
+  html.no-js body div.wrap section.hero-head header.main-head span.main-nav-trigger {
+    display:inline-block;
+    float:right;
+    position: relative;
+    top:30px;
+  }
+  html.no-js body div.wrap section.hero-head header.main-head nav.main-nav {
+    display:none;
+  }
+  html.no-js body div.wrap section.hero-head {
+    background:black;
+    text-align: center;
+  }
+ html.no-js body div.wrap section.hero-head div.wrapper h1 {
+    margin: 50px 50px 20px 20px;
+   font-size: 2em;
+   width:100%;
+   line-height: 50px;
+  }
+  html.no-js body div.wrap section.hero-head div.wrapper {
+    width:100%;
+  }
+  html.no-js body div.wrap section.hero-head div.wrapper div.goal {
+    width:100%;
+    max-width: 100%;
+    margin: 30px 0;
+  }
+   html.no-js body div.wrap section.content.bordered div.wrapper,
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper,
+  html.no-js body div.wrap section.content.bordered div.wrapper section.content-wrap.two-col {
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  html.no-js body div.wrap section.content.bordered div.wrapper section.content-wrap.two-col div.col {
+    flex: 1 100%;
+  }
+  html.no-js body div.wrap section.content.bordered div.wrapper section.content-wrap.two-col div.col a.button.js-modal-open {
+    width:100%;
+    margin: 0 20px;
+  }
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper div.content-wrap.content-wrap-full ul.button-list {
+    display:flex;
+    flex-wrap: wrap;
+  }
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper div.content-wrap.content-wrap-full ul.button-list li {
+    flex:1 100%;
+  }
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper div.content-wrap.content-wrap-full ul.button-list li a.button.button-grey {
+    width: 95%;;
+  }
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper a.large-text-link {
+    margin:0 auto;
+  }
+ html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper {
+    width:100%;
+  }
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper div.content-wrap.content-wrap-full {
+    margin: 80px 20px 20px 20px;
+  }
+  html.no-js body div.wrap section.content.sponsorship.woodsmoke div.wrapper a.large-text-link {
+    margin: 20px;
+  }
+  html.no-js body div.wrap section.content.sponsors div.wrapper,
+  html.no-js body div.wrap section.content.sponsors div.wrapper div.content-wrap-full {
+    width:100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  html.no-js body div.wrap footer.main-foot div.wrapper {
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    text-align: center;
+  }
+  html.no-js body div.wrap footer.main-foot div.wrapper address {
+    flex:1 100%;
+    margin:20px;
+  }
+  html.no-js body div.wrap footer.main-foot div.wrapper nav {
+    flex:1 100%;
+  }
+}

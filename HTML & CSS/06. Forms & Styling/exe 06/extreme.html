@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Extreme Reservation</title>
+    <link rel="stylesheet" href="extreme.css">
+  </head>
+  <body>
+    <main>
+      <nav>
+        <ul>
+          <div class="navi">  <img src="images/paraglider-icon.png" alt="">
+          <li><a href="#">Paragliding</a></li></div>
+          <div class="navi">   <img src="images/sky-diver.png" alt="">
+          <li><a href="#">Skydiving</a></li></div>
+          <div class="navi">   <img src="images/climbing.png" alt="">
+          <li><a href="#">Climbing</a></li></div>
+          <div class="navi">   <img src="images/about-us.png" alt="">
+          <li><a href="#">About Us</a></li></div>
+        </ul>
+      </nav>
+        <form>
+      <section>
+        <fieldset class="left">
+          <legend>Personal Info</legend>
+          <input type="text" id="user" name="" value="">
+          <input type="email" id="email" name="" value="">
+          <input type="tel" id="tel" name="" value="">
+        </fieldset>
+        <fieldset class="right">
+            <legend>Flight Info</legend>
+            <h6>Are you flying for first time?</h6>
+            <input type="radio" name="flight" value="Yes">Yes
+            <input type="radio" name="flight" value="No">No
+            <h6>Choose Destination</h6>
+            <select class="" name="">
+              <optgroup label="Bulgaria">
+                <option value="">Dobrostan</option>
+                <option value="">Sopot</option>
+                <option value="">Sofia</option>
+                <option value="">Bourgas</option>
+              </optgroup>
+              <optgroup label="Rest Of the World">
+                <option value="">Nepal</option>
+                <option value="">Turkey</option>
+                <option value="">France</option>
+              </optgroup>
+            </select>
+            <h6>Choose Date</h6>
+            <input type="date" name="" value="">
+        </fieldset>
+      </section>
+      <div class="btn">
+        <button type="reset" name="reset" id="clear">Clear</button>
+        <button type="submit" name="button" id="send">Send</button>
+      </div>
+
+    </form>
+    </main>
+  </body>
+</html>

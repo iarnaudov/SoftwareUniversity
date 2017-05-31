@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: "Lato", sans-serif;
+  line-height: 1;
+}
+
+body {
+  background: url("images/dark-wood.jpg") center;
+}
+
+header>h1 {
+  font-size: 30px;
+  text-align: right;
+  line-height: 100px;
+  width: 960px;
+  margin: 0 auto;
+  position: relative;
+  padding-right: 40px;
+  background: url("images/header-page.jpg") no-repeat center;
+  background-size: cover;
+  margin-bottom: 3px;
+}
+
+nav {
+  margin-top: 13px;
+  padding-bottom: 2px;
+  background: url("images/header-page.jpg");
+  position: relative;
+  width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 3px;
+}
+
+nav ul li {
+  display: inline-block;
+  text-align: left;
+  padding-left: 50px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  font-weight: bold;
+  color: #413a35;
+}
+
+main {
+  position: relative;
+  width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+    margin-bottom: 3px;
+}
+
+article {
+  width: 650px;
+  height: 230px;
+  margin:0;
+  text-align: left;
+  padding: 20px;
+  float:left;
+}
+
+figure {
+  width: 290px;
+  float: left;
+  padding: 5px;
+  margin: 10px 10px;
+  border: 2px solid gray;
+}
+
+img {
+  width: 290px;
+}
+
+
+
+aside {
+    display: inline-block;
+    height : 40em;
+    margin-left: 40px;
+    border-left: 0.1em solid gray;
+    width: 200px;
+}
+aside ul{
+  list-style: none;
+}
+aside ul li a{
+  text-decoration: none;
+  color: rgba(255, 62, 50, 0.92);
+  font-size: 1.3em;
+
+}
+aside ul li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-bottom: 1px solid rgba(52, 54, 50, 0.28);
+    width: 50%;
+}
+aside h2 {
+  color: rgba(255, 62, 50, 0.92);
+  font-size: 2.2em;
+margin-top: 20px;
+margin-bottom: 20px;
+  width: 50%;
+}
+
+
+footer {
+  margin-top: 2px;
+  line-height: 12px;
+  text-align: center;
+  font-size: 12px;
+  width: 1000px;
+  margin: 0 auto;
+  background-color: rgb(93, 90, 86);
+}

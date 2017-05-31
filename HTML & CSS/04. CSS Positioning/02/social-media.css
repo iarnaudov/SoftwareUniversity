@@ -1,0 +1,43 @@
+body {
+  font-size: 16px;
+  background-color: rgb(45, 45, 41);
+}
+h1 {
+  color: #fff;
+  text-align: left;
+  font-size: 1.7rem;
+}
+ul{
+  list-style: none;
+    text-align: left;
+    padding: 0;
+}
+ul li {
+  color: rgb(189, 186, 126);
+  font-size: 1.3rem;
+}
+div {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+}
+.contacts div div {
+  width: 52px;
+    height: 52px;
+    display: inline-block;
+  margin-right: 5px;
+  border-radius: 50%;}
+
+.facebook { background: url("images/social.jpg") -12px -2px; }
+.facebook:hover { background: url("images/social.jpg") -12px -67px;  }
+
+.linkedin {background: url("images/social.jpg") -203px -2px; }
+.linkedin:hover {background: url("images/social.jpg")  -204px -66px; }
+
+.youtube {background: url("images/social.jpg") -522px -2px; }
+.youtube:hover {background: url("images/social.jpg") -522px -66px; }
+
+.twitter {background: url("images/social.jpg") -75px -2px;}
+.twitter:hover {background: url("images/social.jpg") -76px -66px;;}
+
+.facebook, .twitter, .youtube, .linkedin { cursor: pointer; }
