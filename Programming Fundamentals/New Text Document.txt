@@ -1,2 +1,0 @@
-Ctrl+k+f - formatirane na tekst ili Ctrl+e+F
-edit -> advanced => format document.
