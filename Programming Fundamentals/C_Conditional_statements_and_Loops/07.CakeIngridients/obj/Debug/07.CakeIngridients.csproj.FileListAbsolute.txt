@@ -1,0 +1,5 @@
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\07.CakeIngridients\bin\Debug\07.CakeIngridients.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\07.CakeIngridients\bin\Debug\07.CakeIngridients.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\07.CakeIngridients\bin\Debug\07.CakeIngridients.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\07.CakeIngridients\obj\Debug\07.CakeIngridients.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\07.CakeIngridients\obj\Debug\07.CakeIngridients.pdb

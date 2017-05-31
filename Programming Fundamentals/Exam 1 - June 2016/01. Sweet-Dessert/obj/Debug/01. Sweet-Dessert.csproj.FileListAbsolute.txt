@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\01. Sweet-Dessert\bin\Debug\_01.Sweet_Dessert.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\01. Sweet-Dessert\bin\Debug\_01.Sweet_Dessert.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\01. Sweet-Dessert\bin\Debug\_01.Sweet_Dessert.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\01. Sweet-Dessert\obj\Debug\01. Sweet-Dessert.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\01. Sweet-Dessert\obj\Debug\_01.Sweet_Dessert.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\01. Sweet-Dessert\obj\Debug\_01.Sweet_Dessert.pdb

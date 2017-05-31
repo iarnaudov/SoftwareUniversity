@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\READYCODE1\bin\Debug\READYCODE1.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\READYCODE1\bin\Debug\READYCODE1.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\READYCODE1\bin\Debug\READYCODE1.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\READYCODE1\obj\Debug\READYCODE1.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\READYCODE1\obj\Debug\READYCODE1.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\Exam 1 - June 2016\READYCODE1\obj\Debug\READYCODE1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.pdb

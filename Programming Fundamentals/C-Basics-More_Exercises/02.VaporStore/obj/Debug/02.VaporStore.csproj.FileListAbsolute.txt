@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\02.VaporStore\bin\Debug\02.VaporStore.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\02.VaporStore\bin\Debug\02.VaporStore.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\02.VaporStore\bin\Debug\02.VaporStore.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\02.VaporStore\obj\Debug\02.VaporStore.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\02.VaporStore\obj\Debug\02.VaporStore.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\02.VaporStore\obj\Debug\02.VaporStore.pdb
