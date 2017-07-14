@@ -1,0 +1,5 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\ProgramingFundamentals - Exam\04\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\ProgramingFundamentals - Exam\04\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\ProgramingFundamentals - Exam\04\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\ProgramingFundamentals - Exam\04\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\ProgramingFundamentals - Exam\04\obj\Debug\01.Practice Integers.pdb

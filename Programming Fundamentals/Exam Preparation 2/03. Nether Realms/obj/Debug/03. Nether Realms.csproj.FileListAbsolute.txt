@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 2\03. Nether Realms\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 2\03. Nether Realms\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 2\03. Nether Realms\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 2\03. Nether Realms\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 2\03. Nether Realms\obj\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 2\03. Nether Realms\obj\Debug\03. Nether Realms.csprojResolveAssemblyReference.cache

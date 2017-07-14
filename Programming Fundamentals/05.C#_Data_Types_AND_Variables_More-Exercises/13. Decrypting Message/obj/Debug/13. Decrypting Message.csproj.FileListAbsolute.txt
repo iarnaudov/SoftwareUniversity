@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\05.C_Data_Types_AND_Variables_More-Exercises\13. Decrypting Message\bin\Debug\01.Practice Integers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\05.C_Data_Types_AND_Variables_More-Exercises\13. Decrypting Message\bin\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\05.C_Data_Types_AND_Variables_More-Exercises\13. Decrypting Message\bin\Debug\01.Practice Integers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\05.C_Data_Types_AND_Variables_More-Exercises\13. Decrypting Message\obj\Debug\13. Decrypting Message.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\05.C_Data_Types_AND_Variables_More-Exercises\13. Decrypting Message\obj\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\05.C_Data_Types_AND_Variables_More-Exercises\13. Decrypting Message\obj\Debug\01.Practice Integers.pdb

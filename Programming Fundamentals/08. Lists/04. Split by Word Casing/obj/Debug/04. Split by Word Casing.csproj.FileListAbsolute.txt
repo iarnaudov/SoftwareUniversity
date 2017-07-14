@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\08. Lists\04. Split by Word Casing\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\08. Lists\04. Split by Word Casing\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\08. Lists\04. Split by Word Casing\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\08. Lists\04. Split by Word Casing\obj\Debug\04. Split by Word Casing.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\08. Lists\04. Split by Word Casing\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\08. Lists\04. Split by Word Casing\obj\Debug\01.Practice Integers.pdb

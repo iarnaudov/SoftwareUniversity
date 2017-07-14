@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\06. Heists\bin\Debug\01.Practice Integers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\06. Heists\bin\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\06. Heists\bin\Debug\01.Practice Integers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\06. Heists\obj\Debug\06. Heists.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\06. Heists\obj\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\06. Heists\obj\Debug\01.Practice Integers.pdb

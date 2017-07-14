@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\06. Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\01.Practice Integers.pdb

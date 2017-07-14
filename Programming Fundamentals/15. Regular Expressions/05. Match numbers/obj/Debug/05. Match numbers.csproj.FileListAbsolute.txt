@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\15. Regular Expressions\05. Match numbers\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\15. Regular Expressions\05. Match numbers\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\15. Regular Expressions\05. Match numbers\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\15. Regular Expressions\05. Match numbers\obj\Debug\05. Match numbers.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\15. Regular Expressions\05. Match numbers\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\15. Regular Expressions\05. Match numbers\obj\Debug\01.Practice Integers.pdb

@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\02. Change List\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\02. Change List\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\02. Change List\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\02. Change List\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\02. Change List\obj\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Lists - Exercises\02. Change List\obj\Debug\02. Change List.csprojResolveAssemblyReference.cache

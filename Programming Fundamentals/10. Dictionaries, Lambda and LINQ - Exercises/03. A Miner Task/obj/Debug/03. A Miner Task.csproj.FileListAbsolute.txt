@@ -1,0 +1,5 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\03. A Miner Task\obj\Debug\01.Practice Integers.pdb

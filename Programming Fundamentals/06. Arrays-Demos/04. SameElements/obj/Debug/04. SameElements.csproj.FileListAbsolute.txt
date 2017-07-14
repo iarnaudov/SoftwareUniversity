@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\04. SameElements\bin\Debug\01.Practice Integers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\04. SameElements\bin\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\04. SameElements\bin\Debug\01.Practice Integers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\04. SameElements\obj\Debug\04. SameElements.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\04. SameElements\obj\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\04. SameElements\obj\Debug\01.Practice Integers.pdb

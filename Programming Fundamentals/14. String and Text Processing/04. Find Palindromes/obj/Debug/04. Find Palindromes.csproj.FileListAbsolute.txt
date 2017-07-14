@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\04. Find Palindromes\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\04. Find Palindromes\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\04. Find Palindromes\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\04. Find Palindromes\obj\Debug\04. Find Palindromes.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\04. Find Palindromes\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\04. Find Palindromes\obj\Debug\01.Practice Integers.pdb

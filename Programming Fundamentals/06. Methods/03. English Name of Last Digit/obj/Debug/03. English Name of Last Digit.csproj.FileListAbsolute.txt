@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06.Methods\03. English Name of Last Digit\bin\Debug\01.Practice Integers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06.Methods\03. English Name of Last Digit\bin\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06.Methods\03. English Name of Last Digit\bin\Debug\01.Practice Integers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06.Methods\03. English Name of Last Digit\obj\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06.Methods\03. English Name of Last Digit\obj\Debug\01.Practice Integers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06.Methods\03. English Name of Last Digit\obj\Debug\03. English Name of Last Digit.csprojResolveAssemblyReference.cache

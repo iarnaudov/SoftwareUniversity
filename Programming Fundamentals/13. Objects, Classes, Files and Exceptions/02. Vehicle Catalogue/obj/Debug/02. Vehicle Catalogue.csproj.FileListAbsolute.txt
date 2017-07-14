@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\02. Vehicle Catalogue\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\02. Vehicle Catalogue\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\02. Vehicle Catalogue\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\02. Vehicle Catalogue\obj\Debug\02. Vehicle Catalogue.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\02. Vehicle Catalogue\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\02. Vehicle Catalogue\obj\Debug\01.Practice Integers.pdb

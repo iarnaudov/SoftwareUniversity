@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\09. Lists - Exercises\05.Array Manipulator\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\09. Lists - Exercises\05.Array Manipulator\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\09. Lists - Exercises\05.Array Manipulator\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\09. Lists - Exercises\05.Array Manipulator\obj\Debug\05.Array Manipulator.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\09. Lists - Exercises\05.Array Manipulator\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\09. Lists - Exercises\05.Array Manipulator\obj\Debug\01.Practice Integers.pdb

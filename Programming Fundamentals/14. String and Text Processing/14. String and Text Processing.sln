@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse String", "01. Reverse String\01. Reverse String.csproj", "{93885DC6-A141-4C74-B3E3-190F77DEA7FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Count Substring Occurrences", "02. Count Substring Occurrences\02. Count Substring Occurrences.csproj", "{3059892E-213D-4F45-B45E-EFB78329621D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Text Filter", "03. Text Filter\03. Text Filter.csproj", "{2C200F24-2925-4A02-8208-D445704DEE6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Find Palindromes", "04. Find Palindromes\04. Find Palindromes.csproj", "{37C2A2B0-3F3A-4B01-9143-578A822DEF7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93885DC6-A141-4C74-B3E3-190F77DEA7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93885DC6-A141-4C74-B3E3-190F77DEA7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93885DC6-A141-4C74-B3E3-190F77DEA7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93885DC6-A141-4C74-B3E3-190F77DEA7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3059892E-213D-4F45-B45E-EFB78329621D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3059892E-213D-4F45-B45E-EFB78329621D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3059892E-213D-4F45-B45E-EFB78329621D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3059892E-213D-4F45-B45E-EFB78329621D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C200F24-2925-4A02-8208-D445704DEE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C200F24-2925-4A02-8208-D445704DEE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C200F24-2925-4A02-8208-D445704DEE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C200F24-2925-4A02-8208-D445704DEE6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C2A2B0-3F3A-4B01-9143-578A822DEF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C2A2B0-3F3A-4B01-9143-578A822DEF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C2A2B0-3F3A-4B01-9143-578A822DEF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C2A2B0-3F3A-4B01-9143-578A822DEF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

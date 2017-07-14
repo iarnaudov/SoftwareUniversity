@@ -1,0 +1,5 @@
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\02\bin\Debug\01.Practice Integers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\02\bin\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\02\bin\Debug\01.Practice Integers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\02\obj\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\06. Arrays-Demos\02\obj\Debug\01.Practice Integers.pdb

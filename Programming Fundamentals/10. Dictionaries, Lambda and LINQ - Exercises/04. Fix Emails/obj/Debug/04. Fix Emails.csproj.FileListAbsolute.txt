@@ -1,0 +1,5 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\04. Fix Emails\obj\Debug\01.Practice Integers.pdb

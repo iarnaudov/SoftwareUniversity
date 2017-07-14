@@ -1,0 +1,5 @@
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\12.TestNumbers\bin\Debug\12.TestNumbers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\12.TestNumbers\bin\Debug\12.TestNumbers.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\12.TestNumbers\bin\Debug\12.TestNumbers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\12.TestNumbers\obj\Debug\12.TestNumbers.exe
+E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\12.TestNumbers\obj\Debug\12.TestNumbers.pdb

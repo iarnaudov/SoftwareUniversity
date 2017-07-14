@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Charity Marathon", "01. Charity Marathon\01. Charity Marathon.csproj", "{7C788CAA-43ED-4E79-BB76-8691B43D3A21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Nether Realms", "03. Nether Realms\03. Nether Realms.csproj", "{D57E0205-C899-4B9D-A230-E02558746E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadyToCode1", "ReadyToCode1\ReadyToCode1.csproj", "{4BCD17F3-AE83-4BA6-BDF3-3E470D7139E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Charity - Lab", "01. Charity - Lab\01. Charity - Lab.csproj", "{DE350682-9E48-403A-90BE-55BD365670B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. LadyBugs", "02. LadyBugs\02. LadyBugs.csproj", "{8A40044B-478A-404D-9433-A56338595465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Nether Realms - Lab", "03. Nether Realms - Lab\03. Nether Realms - Lab.csproj", "{4338E3EF-5D46-4BA1-998A-B14F5A57DF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Roli the Coder", "04. Roli the Coder\04. Roli the Coder.csproj", "{A1094C8A-BD3B-4E44-A7D6-51927714E691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C788CAA-43ED-4E79-BB76-8691B43D3A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C788CAA-43ED-4E79-BB76-8691B43D3A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C788CAA-43ED-4E79-BB76-8691B43D3A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C788CAA-43ED-4E79-BB76-8691B43D3A21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D57E0205-C899-4B9D-A230-E02558746E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57E0205-C899-4B9D-A230-E02558746E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57E0205-C899-4B9D-A230-E02558746E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57E0205-C899-4B9D-A230-E02558746E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCD17F3-AE83-4BA6-BDF3-3E470D7139E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCD17F3-AE83-4BA6-BDF3-3E470D7139E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCD17F3-AE83-4BA6-BDF3-3E470D7139E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCD17F3-AE83-4BA6-BDF3-3E470D7139E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE350682-9E48-403A-90BE-55BD365670B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE350682-9E48-403A-90BE-55BD365670B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE350682-9E48-403A-90BE-55BD365670B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE350682-9E48-403A-90BE-55BD365670B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A40044B-478A-404D-9433-A56338595465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A40044B-478A-404D-9433-A56338595465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A40044B-478A-404D-9433-A56338595465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A40044B-478A-404D-9433-A56338595465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4338E3EF-5D46-4BA1-998A-B14F5A57DF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4338E3EF-5D46-4BA1-998A-B14F5A57DF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4338E3EF-5D46-4BA1-998A-B14F5A57DF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4338E3EF-5D46-4BA1-998A-B14F5A57DF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1094C8A-BD3B-4E44-A7D6-51927714E691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1094C8A-BD3B-4E44-A7D6-51927714E691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1094C8A-BD3B-4E44-A7D6-51927714E691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1094C8A-BD3B-4E44-A7D6-51927714E691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\04. Supermarket Database.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\04. Supermarket Database\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\04. Supermarket Database\obj\Debug\01.Practice Integers.pdb

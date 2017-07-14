@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\03. Karate Strings\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\03. Karate Strings\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\03. Karate Strings\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\03. Karate Strings\obj\Debug\03. Karate Strings.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\03. Karate Strings\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\03. Karate Strings\obj\Debug\01.Practice Integers.pdb

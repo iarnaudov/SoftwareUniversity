@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\06. User Logs\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries, Lambda and LINQ - Exercises\06. User Logs\obj\Debug\06. User Logs.csprojResolveAssemblyReference.cache

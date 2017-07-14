@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\02. Count Substring Occurrences\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\02. Count Substring Occurrences\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\02. Count Substring Occurrences\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\02. Count Substring Occurrences\obj\Debug\02. Count Substring Occurrences.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\02. Count Substring Occurrences\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. String and Text Processing\02. Count Substring Occurrences\obj\Debug\01.Practice Integers.pdb

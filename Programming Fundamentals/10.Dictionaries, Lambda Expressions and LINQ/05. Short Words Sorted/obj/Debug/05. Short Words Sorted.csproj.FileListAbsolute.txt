@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10.Dictionaries, Lambda Expressions and LINQ\05. Short Words Sorted\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10.Dictionaries, Lambda Expressions and LINQ\05. Short Words Sorted\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10.Dictionaries, Lambda Expressions and LINQ\05. Short Words Sorted\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10.Dictionaries, Lambda Expressions and LINQ\05. Short Words Sorted\obj\Debug\05. Short Words Sorted.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10.Dictionaries, Lambda Expressions and LINQ\05. Short Words Sorted\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10.Dictionaries, Lambda Expressions and LINQ\05. Short Words Sorted\obj\Debug\01.Practice Integers.pdb

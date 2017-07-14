@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07.Arrays-Lab\01. Day Of Week\bin\Debug\01.Practice Integers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07.Arrays-Lab\01. Day Of Week\bin\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07.Arrays-Lab\01. Day Of Week\bin\Debug\01.Practice Integers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07.Arrays-Lab\01. Day Of Week\obj\Debug\01. Day Of Week.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07.Arrays-Lab\01. Day Of Week\obj\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07.Arrays-Lab\01. Day Of Week\obj\Debug\01.Practice Integers.pdb

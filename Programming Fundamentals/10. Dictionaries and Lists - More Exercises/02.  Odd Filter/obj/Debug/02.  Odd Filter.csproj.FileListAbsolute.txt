@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\02.  Odd Filter\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\02.  Odd Filter\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\02.  Odd Filter\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\02.  Odd Filter\obj\Debug\02.  Odd Filter.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\02.  Odd Filter\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\10. Dictionaries and Lists - More Exercises\02.  Odd Filter\obj\Debug\01.Practice Integers.pdb

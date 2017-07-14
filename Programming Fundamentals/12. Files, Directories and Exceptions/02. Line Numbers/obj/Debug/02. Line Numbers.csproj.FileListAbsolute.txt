@@ -1,0 +1,5 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\12. Files, Directories and Exceptions\02. Line Numbers\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\12. Files, Directories and Exceptions\02. Line Numbers\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\12. Files, Directories and Exceptions\02. Line Numbers\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\12. Files, Directories and Exceptions\02. Line Numbers\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\12. Files, Directories and Exceptions\02. Line Numbers\obj\Debug\01.Practice Integers.pdb

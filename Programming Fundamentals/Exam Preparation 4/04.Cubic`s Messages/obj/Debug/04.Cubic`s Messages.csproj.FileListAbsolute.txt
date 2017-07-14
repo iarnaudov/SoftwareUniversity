@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 4\04.Cubic`s Messages\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 4\04.Cubic`s Messages\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 4\04.Cubic`s Messages\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 4\04.Cubic`s Messages\obj\Debug\04.Cubic`s Messages.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 4\04.Cubic`s Messages\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\Exam Preparation 4\04.Cubic`s Messages\obj\Debug\01.Practice Integers.pdb

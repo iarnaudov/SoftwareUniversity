@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\08. Letters Change Numbers.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\01.Practice Integers.pdb

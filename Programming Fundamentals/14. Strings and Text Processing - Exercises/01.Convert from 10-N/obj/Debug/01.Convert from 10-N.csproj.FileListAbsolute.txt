@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\01.Convert from 10-N\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\01.Convert from 10-N\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\01.Convert from 10-N\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\01.Convert from 10-N\obj\Debug\01.Convert from 10-N.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\01.Convert from 10-N\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\14. Strings and Text Processing - Exercises\01.Convert from 10-N\obj\Debug\01.Practice Integers.pdb

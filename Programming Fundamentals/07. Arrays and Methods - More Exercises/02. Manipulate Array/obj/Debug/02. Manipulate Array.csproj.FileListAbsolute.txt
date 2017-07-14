@@ -1,0 +1,6 @@
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\01.Practice Integers.exe.config
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\01.Practice Integers.pdb
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\02. Manipulate Array.csprojResolveAssemblyReference.cache
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\01.Practice Integers.exe
+E:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\07. Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\01.Practice Integers.pdb

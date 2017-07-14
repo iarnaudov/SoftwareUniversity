@@ -1,0 +1,5 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\07. Hideout\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\07. Hideout\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\07. Hideout\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\07. Hideout\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\07. Hideout\obj\Debug\01.Practice Integers.pdb

@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\08. Personal Information\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\08. Personal Information\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\08. Personal Information\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\08. Personal Information\obj\Debug\08. Personal Information.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\08. Personal Information\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\13.Objects, Classes, Files and Exceptions\08. Personal Information\obj\Debug\01.Practice Integers.pdb

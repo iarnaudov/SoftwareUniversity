@@ -1,0 +1,6 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\05. Only Letters\bin\Debug\01.Practice Integers.exe.config
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\05. Only Letters\bin\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\05. Only Letters\bin\Debug\01.Practice Integers.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\05. Only Letters\obj\Debug\05. Only Letters.csprojResolveAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\05. Only Letters\obj\Debug\01.Practice Integers.exe
+D:\Програмиране\SoftUni Homeworks\SoftUni - Local\Programming Fundamentals\16. Strings and Regular Expressions - Exercises\05. Only Letters\obj\Debug\01.Practice Integers.pdb
