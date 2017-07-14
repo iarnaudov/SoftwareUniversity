@@ -1,6 +1,0 @@
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\08.SMS\obj\Debug\08.SMS.csprojResolveAssemblyReference.cache
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\08.SMS\bin\Debug\08.SMS.exe.config
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\08.SMS\bin\Debug\08.SMS.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\08.SMS\bin\Debug\08.SMS.pdb
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\08.SMS\obj\Debug\08.SMS.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\08.SMS\obj\Debug\08.SMS.pdb

@@ -1,5 +1,0 @@
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\04.Photo Gallery\bin\Debug\04.Photo Gallery.exe.config
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\04.Photo Gallery\bin\Debug\04.Photo Gallery.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\04.Photo Gallery\bin\Debug\04.Photo Gallery.pdb
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\04.Photo Gallery\obj\Debug\04.Photo Gallery.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\04.Photo Gallery\obj\Debug\04.Photo Gallery.pdb

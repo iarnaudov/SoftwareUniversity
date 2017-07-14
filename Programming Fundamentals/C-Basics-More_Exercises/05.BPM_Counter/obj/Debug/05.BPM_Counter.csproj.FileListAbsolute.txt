@@ -1,6 +1,0 @@
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\05.BPM_Counter\bin\Debug\05.BPM_Counter.exe.config
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\05.BPM_Counter\bin\Debug\05.BPM_Counter.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\05.BPM_Counter\bin\Debug\05.BPM_Counter.pdb
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\05.BPM_Counter\obj\Debug\05.BPM_Counter.csprojResolveAssemblyReference.cache
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\05.BPM_Counter\obj\Debug\05.BPM_Counter.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\05.BPM_Counter\obj\Debug\05.BPM_Counter.pdb

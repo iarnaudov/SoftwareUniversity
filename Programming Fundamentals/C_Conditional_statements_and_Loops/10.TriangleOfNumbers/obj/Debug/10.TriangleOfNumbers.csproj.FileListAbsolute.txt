@@ -1,6 +1,0 @@
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.exe.config
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\10.TriangleOfNumbers\bin\Debug\10.TriangleOfNumbers.pdb
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\10.TriangleOfNumbers\obj\Debug\10.TriangleOfNumbers.csprojResolveAssemblyReference.cache
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\10.TriangleOfNumbers\obj\Debug\10.TriangleOfNumbers.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\10.TriangleOfNumbers\obj\Debug\10.TriangleOfNumbers.pdb

@@ -1,5 +1,0 @@
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe.config
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\08.CaloriesCounter\bin\Debug\08.CaloriesCounter.pdb
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C_Conditional_statements_and_Loops\08.CaloriesCounter\obj\Debug\08.CaloriesCounter.pdb

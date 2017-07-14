@@ -1,6 +1,0 @@
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\07.HallEquipment\bin\Debug\07.HallEquipment.exe.config
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\07.HallEquipment\bin\Debug\07.HallEquipment.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\07.HallEquipment\bin\Debug\07.HallEquipment.pdb
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\07.HallEquipment\obj\Debug\07.HallEquipment.csprojResolveAssemblyReference.cache
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\07.HallEquipment\obj\Debug\07.HallEquipment.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\07.HallEquipment\obj\Debug\07.HallEquipment.pdb

@@ -1,6 +1,0 @@
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\03.Megapixels\bin\Debug\03.Megapixels.exe.config
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\03.Megapixels\bin\Debug\03.Megapixels.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\03.Megapixels\bin\Debug\03.Megapixels.pdb
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\03.Megapixels\obj\Debug\03.Megapixels.csprojResolveAssemblyReference.cache
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\03.Megapixels\obj\Debug\03.Megapixels.exe
-E:\Програмиране\SoftUni Homeworks\SoftwareUniversity\Programming Fundamentals\C-Basics-More_Exercises\03.Megapixels\obj\Debug\03.Megapixels.pdb
