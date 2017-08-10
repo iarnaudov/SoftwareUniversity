@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Numbers Page";
+}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Numbers:</h2>
+        <ul class="list-group">
+            @for (int i = 1; i <= 50; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    <li style="color:darkred">@i</li>
+                }
+                else
+                {
+                    <li style="color:blueviolet">@i</li>
+                }
+
+            }
+        </ul>
+    </div>
+</div>
