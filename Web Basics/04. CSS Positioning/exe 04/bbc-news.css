@@ -1,0 +1,28 @@
+main {
+  width: 890px;
+  font-family: "Calibri Light", sans-serif;
+  border: 2px solid #a5b2b3;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+}
+article {
+  width:200px;
+align-self:center;
+margin: 10px;
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+}
+a {text-decoration: none;}
+img{
+  width: 200px;
+}
+p {
+  color: black;
+}
+a:hover {
+  opacity: 0.4;
+}

@@ -1,0 +1,26 @@
+header, footer {
+  padding: 30px;
+  font-size: 40px;
+  color: white;
+  background-color: rgb(94, 70, 29);
+}
+
+
+ul {
+  list-style: none;
+  float: left;
+  margin-left: -30px;
+  margin-top: 0;
+}
+
+ul li {
+  background-color: rgb(37, 141, 173);
+  margin: 5px;
+  margin-right: 20px;
+  color: white;
+  padding: 10px;
+}
+
+main {
+  height: 230px;
+}

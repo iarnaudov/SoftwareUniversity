@@ -1,0 +1,42 @@
+@media only screen and (min-width: 730px) and (max-width: 1200px) {
+    html > body,
+    html > body > #wrapper {
+        width:100%;
+        margin: 0 auto;
+        font-size:1em;
+        }
+         html > body > #wrapper > main > section,
+          html > body > #wrapper > main > aside {
+             width:100%;}
+}
+
+@media only screen and (min-width: 500px) and (max-width: 729px) {
+        html > body,
+         html > body > #wrapper {
+        width:100%;
+        margin: 0 auto;
+        font-size:1em;
+        }
+         html > body > #wrapper > main > section,
+          html > body > #wrapper > main > aside {
+             width:95%;}
+          html > body > #wrapper > header > nav > ul > li {
+              width:100%;
+              border: 1px solid #cac9c9;
+          }
+        html > body > #wrapper > main > section > div > div {
+             width:100%;
+             text-align:center;
+             background:#59793e;
+          }
+          html > body > #wrapper > main > section > div > article  {
+             width:100%;
+             text-align:center;
+             background: white;
+          }
+          html > body > #wrapper > main > section > div {
+              margin-bottom:200px;
+              width:100%;
+          }
+
+}

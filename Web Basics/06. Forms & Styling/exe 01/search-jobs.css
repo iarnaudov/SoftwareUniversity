@@ -1,0 +1,85 @@
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+input[type=number] {
+  appearance: none;
+}
+nav, ul, label {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 14px;
+  font-family: Tahoma, Helvetica, sans-serif;
+  padding: 80px 50px;
+  text-align: center;
+}
+nav,form {
+  width: 80%;
+  margin: 0 auto;
+}
+ul, ul:hover {
+  background-color: #384452;
+  text-align: left;
+  border-radius: 10px;
+}
+li {
+  display: inline-block;
+  text-decoration: none;
+  padding: 25px;
+  color: rgb(127, 180, 191);
+}
+li:hover {
+  display: inline-block;
+  text-decoration: none;
+  padding: 25px;
+  color: white;
+  background-color: rgb(35, 195, 128);
+  cursor:pointer;
+    border-radius: 10px;
+}
+.fa {
+  font-size: 20px;
+  padding-right:10px;
+}
+form {
+  background: #EEE;
+  display: flex;
+  flex-wrap: wrap;
+}
+label {
+	color: #374574;
+	display: block;
+	font-weight: bold;
+	width: 210px;
+	margin-left: 38px;
+	margin-top: 20px;
+}
+input[type=number] {
+	color: #374574;
+	display: block;
+	font-weight: bold;
+	width: 110px;
+	margin-left: 38px;
+  padding-left: 35px;
+	margin-top: 20px;
+}
+input {
+  border: 1px solid #CDCDCD;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 46px;
+  padding-left: 14px;
+}
+button {
+  margin-left: 38px;
+  width: 210px;
+  height: 46px;
+  text-transform: uppercase;
+  background: #384452;
+  color: #C3D1CA;
+}
+button:hover {
+background: #3BBC96;
+color: #FFF7E4;
+cursor: pointer;
+
+}

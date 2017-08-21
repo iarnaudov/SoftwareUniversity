@@ -1,0 +1,12 @@
+table, td, tr, th {border: solid 1px #000000;}
+td.bold {
+  font-weight: bold;
+  text-align: center;}
+th.result {
+  width: 400px;
+  text-align: center;;
+  padding-right: 5px;
+}
+td {
+  padding: 5px;
+}
