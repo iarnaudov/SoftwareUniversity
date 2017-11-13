@@ -1,0 +1,67 @@
+﻿<?Infragistics.Models format="xaml" version="3" appVersion="9.2.1000.51"?>
+<ScreenPart xmlns="http://prototypes.infragistics.com/"
+                                                                                        xmlns:d="http://prototypes.infragistics.com/views/design"
+                                                                                        Id="fc78fdea-863a-458d-8cb0-8af37c2c4b72" d:Design.ShowGuides="False">
+    <ScreenPart.Content>
+        <BorderedContent Width="379" Height="155" Background="#00FFFFFF" Id="a0d5865b-1173-4c74-b75c-4ca8cad8991f">
+            <BorderedContent.Layers>
+                <Layer Id="76495c68-aff5-4745-83a5-0e3ca93d7bc8" Panel.Layout="Stretch" />
+                <AnnotationsLayer Id="98fdd2b2-4192-4d84-af9e-4d0a2a144fcc" Panel.Layout="Stretch" />
+            </BorderedContent.Layers>
+            <BorderedContent.Viewbox>
+                <Viewbox Id="d399f198-3fa3-436f-9261-c553fae5ecc5" />
+            </BorderedContent.Viewbox>
+            <BorderedContent.GuidesInfo>
+                <GuidesInfo Id="46497538-1f6a-465f-b6b7-7153feb919d2" />
+            </BorderedContent.GuidesInfo>
+        </BorderedContent>
+    </ScreenPart.Content>
+    <ScreenPart.Device>
+        <DeviceInfo Id="none" Orientation="None" />
+    </ScreenPart.Device>
+    <ScreenPart.Scenes>
+        <Scene Title="Start" Created="11/06/2017 12:58:11" Id="a22b7133-a19c-4ced-98e9-1952d486d416">
+            <Scene.KeyFrames>
+                <KeyFrame Id="ff306ee3-afa4-442b-9e99-7c2fa24075cb">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="76495c68-aff5-4745-83a5-0e3ca93d7bc8">
+                            <Add.Item>
+                                <Label RichText="12 December 2017 " FontSize="24" FontFamily="Roboto" Id="9609550d-4bbd-49df-ac58-909d01808084" Panel.Bounds="59,0,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="76495c68-aff5-4745-83a5-0e3ca93d7bc8">
+                            <Add.Item>
+                                <Label RichText="Location: Arena Armeec, Sofia" FontSize="24" FontFamily="Roboto" Id="5a9461c5-7576-4fae-8f37-eb9f1dcc720f" Panel.Bounds="54,62,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="76495c68-aff5-4745-83a5-0e3ca93d7bc8">
+                            <Add.Item>
+                                <Icon Color="#FF55426D" CatalogId="Locate" Id="9399ddec-438a-4785-83fb-494e42c9e29f" Panel.Bounds="4,62,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="76495c68-aff5-4745-83a5-0e3ca93d7bc8">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Screenpart1.screenpart" Id="17c9a7a8-9922-4489-a421-0b276322367b" Panel.Bounds="115,66,0*,0*" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="76495c68-aff5-4745-83a5-0e3ca93d7bc8">
+                            <Add.Item>
+                                <Icon Color="#FF392C49" CatalogId="fa-calendar-check-o" Id="6d53bb58-4dbc-4dc8-a878-8f9e832fe5ed" Panel.Bounds="4,0,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="76495c68-aff5-4745-83a5-0e3ca93d7bc8">
+                            <Add.Item>
+                                <Label RichText="Ticket Price: 30 lv" FontSize="24" FontFamily="Roboto" Id="e575525b-54f7-4e26-b5ba-a515fb19e92b" Panel.Bounds="54,123,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="76495c68-aff5-4745-83a5-0e3ca93d7bc8">
+                            <Add.Item>
+                                <Icon Color="#FF000000" CatalogId="linea-dollar" Id="dc4fd31f-31a6-4cab-8cac-36157208221e" Panel.Bounds="0,123,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+    </ScreenPart.Scenes>
+</ScreenPart>

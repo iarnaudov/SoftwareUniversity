@@ -1,0 +1,37 @@
+﻿<?Infragistics.Models format="xaml" version="3" appVersion="9.2.1000.51"?>
+<ScreenPart xmlns="http://prototypes.infragistics.com/"
+                                                                                        xmlns:d="http://prototypes.infragistics.com/views/design"
+                                                                                        Id="f0b0ecd6-8f2e-44f9-9919-dfb8f618b494" d:Design.ShowGuides="False">
+    <ScreenPart.Content>
+        <BorderedContent Width="95" Height="46" Background="#00FFFFFF" Id="441afc6c-2854-4990-8e00-7659afef0982">
+            <BorderedContent.Layers>
+                <Layer Id="63667ed4-221d-42ea-9a5c-20862aced61b" Panel.Layout="Stretch" />
+                <AnnotationsLayer Id="518ff1b7-c050-4a36-a647-e79c114a59a2" Panel.Layout="Stretch" />
+            </BorderedContent.Layers>
+            <BorderedContent.Viewbox>
+                <Viewbox Id="01d4f19a-b566-4868-b78e-aa955c59057d" />
+            </BorderedContent.Viewbox>
+            <BorderedContent.GuidesInfo>
+                <GuidesInfo Id="44259011-734b-41d0-802a-0236c7a9195a" />
+            </BorderedContent.GuidesInfo>
+        </BorderedContent>
+    </ScreenPart.Content>
+    <ScreenPart.Device>
+        <DeviceInfo Id="none" Orientation="None" />
+    </ScreenPart.Device>
+    <ScreenPart.Scenes>
+        <Scene Title="Start" Created="11/06/2017 12:39:02" Id="34855a33-fc05-4e64-bdc3-0a617ab05421">
+            <Scene.KeyFrames>
+                <KeyFrame Id="874ba2e6-6839-4f66-a7d9-9c7aaefba5ac">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="63667ed4-221d-42ea-9a5c-20862aced61b">
+                            <Add.Item>
+                                <Button Text="Back" Background="#FFFF2E2E" BorderColor="#FF392C49" CornerRadius="10" BorderThickness="2" Foreground="#FFFFFFFF" FontSize="21" FontFamily="Lucida Grande" FontStyle="Bold" Id="9ae80a3c-be3e-4f13-88c1-679f4c55e5f7" Panel.Bounds="7,7,80{5,2147483647},35{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+    </ScreenPart.Scenes>
+</ScreenPart>

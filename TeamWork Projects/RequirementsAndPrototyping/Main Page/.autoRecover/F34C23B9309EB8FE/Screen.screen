@@ -1,0 +1,1188 @@
+﻿<?Infragistics.Models format="xaml" version="29" appVersion="9.2.1000.51"?>
+<Page xmlns="http://prototypes.infragistics.com/"
+                                                                                   Id="793473e2-ec49-4cbc-9442-6bd1e1ac162d">
+    <Page.Content>
+        <Content Width="1024" Height="768" Id="9f5ebe30-41e8-4430-81f0-fe1cb3995461">
+            <Content.Layers>
+                <Layer Id="742f81b3-24d4-461a-9c49-4d6aafda30b6" Panel.Layout="Stretch" />
+                <AnnotationsLayer Id="999cf29e-66e7-43e1-b18b-9023968bcfe6" Panel.Layout="Stretch" />
+            </Content.Layers>
+            <Content.Viewbox>
+                <Viewbox Id="59b15ced-96bd-4333-9593-8db7cb48a352" />
+            </Content.Viewbox>
+            <Content.GuidesInfo>
+                <GuidesInfo Id="ff5a542e-e089-4fc1-a2ef-87871b64f43b" />
+            </Content.GuidesInfo>
+        </Content>
+    </Page.Content>
+    <Page.Device>
+        <DeviceInfo Id="none" Orientation="None" />
+    </Page.Device>
+    <Page.Scenes>
+        <Scene Title="Start" Created="11/02/2017 09:18:37" Id="76af84b1-e87d-45fd-8003-44ad4adbe5d1">
+            <Scene.KeyFrames>
+                <KeyFrame Id="96673558-8818-4df9-9b49-69324def09c4">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/maxresdefault.jpg" Id="85480153-3934-499c-901a-395e6c518629" Panel.Bounds="139,262,274{5,2147483647},343{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="b157014d-49b1-436f-9a23-5052147d6fa2" Created="11/05/2017 14:51:59" Id="3c186316-9671-4694-b85a-3dfc516458cf" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/U2.jpg" Id="ed221770-c2b2-4ca1-af90-261951cde329" Panel.Bounds="412,262,490{5,2147483647},141{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="be0a5efb-cfb8-4ee3-9e92-e02207771c89" Created="11/05/2017 20:13:59" Id="ba2cbd5f-1480-4271-8222-e6b563e778c3" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/Image_5824548_126.jpg" Id="18d95e3f-2946-417e-bafb-6c6d8415fc11" Panel.Bounds="412,401,169{5,2147483647},204{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="e1c17934-e8c9-4786-8f92-bfa07e001988" Created="11/05/2017 19:58:53" Id="46ba77d8-c3c9-4db5-acfb-25636eda0ff6" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/kSz1jtnn.jpg" Id="053e35a0-ff44-4105-b231-9565a75ae6f1" Panel.Bounds="581,401,152{5,2147483647},204{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="971d0ff3-7e12-4cc7-8d63-58c7c6a822c8" Created="11/05/2017 19:48:57" Id="dfe4d0f3-b539-4c99-af8f-2af1ea4206cc" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/thumb-1920-292406.jpg" Id="bb6aa49a-7ec3-441e-bcda-e5c1783148e6" Panel.Bounds="733,401,169{5,2147483647},204{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="2d25ae17-d8dd-4003-8a1f-3fa1042cb5bf" Created="11/05/2017 20:42:31" Id="0bf5b4ed-8126-4ba7-a3bc-0553e4893c4b" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Button Text="OnlineTicketStoreBG" Background="#FFF1D8D7" CornerRadius="10" FontSize="36" FontFamily="Roboto" Id="ffae6419-db2c-4cc1-9a8d-af1e0044daaf" Panel.Bounds="41,75,437{5,2147483647},47{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Rectangle CornerRadius="15" Background="#FF392C49" Opacity="0.2" Id="d9195358-6e6b-4687-9004-9803ec47f18f" Panel.Bounds="71,147,921{5,2147483647},52{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="HOME" FontSize="18" FontFamily="Open Sans" FontStyle="Normal" Id="6377060c-1f41-4a73-ada0-2be636498d3c" Panel.Bounds="152,159,145*{5,2147483647},30{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="EVENTS" FontSize="18" FontFamily="Open Sans" Id="2702ebf9-5ec2-42d6-b91d-9b6f5122438c" Panel.Bounds="289,161,0*,0*">
+                                    <Label.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="5dfdd472-5d61-467d-b9de-6665fad079a3" Created="11/06/2017 13:45:02" Id="62bdd8f2-0db4-4a95-be89-8ca218f7883f">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Flip" Duration="300" Direction="Right" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </Label.Click>
+                                </Label>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="HALLS" FontSize="18" FontFamily="Open Sans" Id="38bab259-c212-4dad-8c74-36a26f0ffa29" Panel.Bounds="444,161,30*{5,2147483647},26{5,2147483647}">
+                                    <Label.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="c534fc45-a9f1-4c3b-bd76-6360ce7c8a5c" Created="11/06/2017 13:45:42" Id="31be56f7-e9f9-4768-a239-99ac98068cf0">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Flip" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </Label.Click>
+                                </Label>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="REGISTER / LOGIN" FontSize="18" FontFamily="Open Sans" Id="c7f33eab-39ce-4a6e-97a3-13e58b4b399e" Panel.Bounds="619,161,5*{5,2147483647},5*{5,2147483647}">
+                                    <Label.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="37d03ef7-4178-4186-9865-81b5a4dd90b6" Created="11/06/2017 13:49:14" Id="e4e61bf3-1db3-4a8a-bde4-dde5463d08b2">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Flip" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </Label.Click>
+                                </Label>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="BG" FontFamily="Open Sans" Id="4c5afa10-9168-4bbd-8730-7a06e27f7ca5" Panel.Bounds="955,165,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Icon CatalogId="fa-search" Id="6e769db0-838d-45da-bc06-df464b61ed05" Panel.Bounds="925,165,18{5,2147483647},18{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <PasswordBox WatermarkText="Search here..." Background="#FFD8E5F0" FontFamily="Open Sans" Id="8c8282d2-9918-47f7-97ab-3f9d10f1baa7" Panel.Bounds="798,161,120{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Rectangle CornerRadius="10" Background="#FFFDE8D6" Id="f26b60e5-0e66-43bc-9dea-c5e9de4a649f" Panel.Bounds="93,643,865{5,2147483647},64{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="&lt;Run FontSize=&quot;24&quot; &gt;Find tickets for more than 20 000 events every year !!!&lt;/Run&gt;" FontFamily="Open Sans" Id="dbc6669d-4606-4b22-b6d3-32bd664edb04" Panel.Bounds="239,658,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Icon Color="#FF392C49" CatalogId="fa-child" Id="473f70c3-f3a1-4f51-869a-d29189a6eebd" Panel.Bounds="185,648,49{5,2147483647},49{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Icon Color="#FF392C49" CatalogId="fa-child" Id="5f1e7209-c54b-4738-a20d-32ec5dd55e53" Panel.Bounds="841,648,49{5,2147483647},49{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Set Property="Content.Background" Value="#FFD8E5F0" Target="9f5ebe30-41e8-4430-81f0-fe1cb3995461" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="971d0ff3-7e12-4cc7-8d63-58c7c6a822c8" ParentScene="971d0ff3-7e12-4cc7-8d63-58c7c6a822c8" Created="11/02/2017 09:28:34" Id="1d4179c5-a3fd-42a7-ad90-792ddcf7cbd4">
+            <Scene.KeyFrames>
+                <KeyFrame Id="e5557520-a2e1-41cd-a20b-57585003465b">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/maxresdefault.jpg" Id="85480153-3934-499c-901a-#6aef2df23c16" Panel.Bounds="139,262,274{5,2147483647},343{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="b157014d-49b1-436f-9a23-5052147d6fa2" Created="11/05/2017 14:51:59" Id="3c186316-9671-4694-b85a-#79e4d6020f8e" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/U2.jpg" Id="ed221770-c2b2-4ca1-af90-#145e1e56b1ec" Panel.Bounds="412,262,490{5,2147483647},141{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/Image_5824548_126.jpg" Id="18d95e3f-2946-417e-bafb-#19154c8617d2" Panel.Bounds="412,401,169{5,2147483647},204{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/kSz1jtnn.jpg" Id="053e35a0-ff44-4105-b231-#562a12b8a347" Panel.Bounds="580,401,152{5,2147483647},204{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="971d0ff3-7e12-4cc7-8d63-58c7c6a822c8" Created="11/05/2017 19:48:57" Id="dfe4d0f3-b539-4c99-af8f-#43c4e4512e74" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/thumb-1920-292406.jpg" Id="bb6aa49a-7ec3-441e-bcda-#eabf7bc14762" Panel.Bounds="733,401,169{5,2147483647},201{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="2d25ae17-d8dd-4003-8a1f-3fa1042cb5bf" Created="11/05/2017 19:51:43" Id="c7521f90-4761-4325-8ed4-3d2bfbebc811" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="33665319-7208-4050-98bc-70b9d576bb22" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="76af84b1-e87d-45fd-8003-44ad4adbe5d1" ParentScene="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/02/2017 09:35:33" Id="5dfdd472-5d61-467d-b9de-6665fad079a3">
+            <Scene.KeyFrames>
+                <KeyFrame Id="4cf2d3c2-4d67-4444-a4e1-d4071d7a4355">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Group GroupName="Group" Id="c580fe54-abd1-4f77-b1b5-e798b9795309" Panel.Bounds="432,41,0*,0*">
+                                    <Group.Children>
+                                        <ComboBox IsOpen="True" Hint="ArtistName...." Id="fa60ad36-880b-4fee-9240-96d0867f9b26" Panel.Bounds="109,3,150{5,2147483647},28{5,2147483647}">
+                                            <ComboBox.Items>
+                                                <Item Text="Madona" Id="ed14dc90-8983-4d3d-8d64-283bff76dfd0" />
+                                                <Item Text="Sashka Vaseva" Id="5c1f611a-1e6e-48cc-b67f-4368982eee13" />
+                                                <Item Text="U2" Id="3c737f09-04a5-4f9b-a56b-bf7cf4e92a27" />
+                                            </ComboBox.Items>
+                                        </ComboBox>
+                                        <Label RichText="Find Event" FontSize="18" FontFamily="Open Sans" Id="0f426fb2-f612-47dc-a68a-09ee4627e39e" Panel.Bounds="0,0,63*{5,2147483647},25{5,2147483647}" />
+                                    </Group.Children>
+                                </Group>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ComboBox Id="7863e58f-7f0a-413f-aa87-9c3ad96310ca" Panel.Bounds="842,44,150{5,2147483647},28{5,2147483647}">
+                                    <ComboBox.Items>
+                                        <Item Text="Lowest Price" Id="ea57cd7a-6cd7-4a6a-9904-bc7385c545ec" />
+                                        <Item Text="Highest Price" Id="d0461a58-66af-43f2-bd49-fff2cd327954" />
+                                        <Item Text="Categoty" Id="ad3b7ac0-90fb-49c3-80c5-fb73236248ca" />
+                                        <Item Text="Newest" Id="0c56a94c-9b39-4c9d-9fb7-fc189e381388" />
+                                        <Item Text="Last Minute" Id="1d175d95-7e6c-4fa2-b93a-7d63954e7161" />
+                                    </ComboBox.Items>
+                                </ComboBox>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Sort By" FontSize="18" FontFamily="Open Sans" Id="5ec2fab9-cc4d-47a5-826c-692012f3b2ca" Panel.Bounds="762,42,44*{5,2147483647},22{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="edcacd58-cfa2-485e-883e-7d5a0e15b470" Panel.Bounds="52,30,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" Created="11/06/2017 13:43:23" Id="10bd3316-5df1-434f-b9cf-c718d860a0fb">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/maxresdefault.jpg" Id="7bb77165-c0c7-46a7-845e-6b9ec7b0cd58" Panel.Bounds="17,212,282{5,2147483647},205{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="b157014d-49b1-436f-9a23-5052147d6fa2" Created="11/05/2017 14:21:02" Id="f150447d-430b-4f54-b2c3-04d7b3e00b48" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/Image_5824548_126.jpg" Id="f4d562b7-d77d-4aa7-924b-ea04c74ae3bd" Panel.Bounds="383,212,292{5,2147483647},205{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="e1c17934-e8c9-4786-8f92-bfa07e001988" Created="11/05/2017 19:56:13" Id="95e726be-a74b-4cf6-b468-1b4d7b877302" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/U2.jpg" Id="1b8b0201-6183-4bf4-b241-62b8b77dd702" Panel.Bounds="730,212,282{5,2147483647},205{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="be0a5efb-cfb8-4ee3-9e92-e02207771c89" Created="11/05/2017 20:25:00" Id="cd379ce6-e9e0-4d81-bc42-e74fd7e0bfc0" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="DEC&#xD;&#xA;12" FontSize="21" FontFamily="Open Sans" FontStyle="Bold" Id="4520edea-e9d8-4c6a-b01a-1c6c6a4e9f7e" Panel.Bounds="17,430,43{5,2147483647},59{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Madonna" FontSize="18" FontFamily="Open Sans" Id="5ecf84aa-a708-4593-8e5e-3a693809223d" Panel.Bounds="83,430,84{5,2147483647},26{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Arena Armeec 20:00" FontSize="14" FontFamily="Open Sans" Id="7f892172-a58f-4a38-9c78-ad2a2bb07cd7" Panel.Bounds="83,453,189{5,2147483647},21{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Sofia" FontFamily="Open Sans" Id="76235702-5fcb-4cd1-bd66-3622d3de9834" Panel.Bounds="83,471,32{5,2147483647},18{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="NOV&#xD;&#xA;18" FontSize="21" FontFamily="Open Sans" FontStyle="Bold" Id="dae13cc7-5d94-4d88-bfb4-b21d1eb2b594" Panel.Bounds="387,430,50{5,2147483647},59{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Sashka Vaseva" FontSize="18" FontFamily="Open Sans" Id="3b77f1a4-f3e8-4515-b7be-20604d30ba89" Panel.Bounds="466,430,127{5,2147483647},26{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="OCT&#xD;&#xA;31" FontSize="21" FontFamily="Open Sans" FontStyle="Bold" Id="a11ba689-033d-40b0-b6fc-27b021543ba3" Panel.Bounds="744,430,45{5,2147483647},59{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="U2" FontSize="18" FontFamily="Open Sans" Id="56963fba-5663-4592-97cc-ec1a35df2355" Panel.Bounds="816,430,24{5,2147483647},26{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Plazza Center" FontSize="14" FontFamily="Open Sans" Id="ac71a4de-6ff3-4c5d-90a5-f61f43e8e477" Panel.Bounds="816,453,113{5,2147483647},21{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Sofia" FontFamily="Open Sans" Id="52e5661a-cfcd-42d9-a142-ac2bc5499027" Panel.Bounds="816,471,32{5,2147483647},18{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Price&#xD;&#xA;30 lv" FontSize="21" FontFamily="Open Sans" FontStyle="Bold" Id="3cb12a3c-ed0c-4a3e-a3c2-d387a4ba1fb7" Panel.Bounds="243,426,56{5,2147483647},59{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Price&#xD;&#xA;10 lv" FontSize="21" FontFamily="Open Sans" FontStyle="Bold" Id="07b11c49-9dec-4b85-b681-f0ded3e0319e" Panel.Bounds="623,426,56{5,2147483647},59{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Price&#xD;&#xA;60 lv" FontSize="21" FontFamily="Open Sans" FontStyle="Bold" Id="27f5c2ce-539b-4183-9c73-8cbb554b05f5" Panel.Bounds="956,422,56{5,2147483647},59{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Group GroupName="Group" Id="1f54d8af-8879-4bd0-95e4-1646f330ac19" Panel.Bounds="485,393,0*,0*">
+                                    <Group.Children>
+                                        <Label RichText="Stadio Olympico 21:00" FontSize="14" FontFamily="Open Sans" Id="7e1f2bf3-c929-4ecf-8cfd-3730a27784e7" Panel.Bounds="-19,60,189{5,2147483647},21{5,2147483647}" />
+                                        <Label RichText="Rome" FontFamily="Open Sans" Id="eb5a2e71-6d60-4a9a-b744-d51894b1b937" Panel.Bounds="-19,78,38{5,2147483647},18{5,2147483647}" />
+                                    </Group.Children>
+                                </Group>
+                            </Add.Item>
+                        </Add>
+                        <Set Property="Content.Background" Value="#FF81ABE0" Target="9f5ebe30-41e8-4430-81f0-fe1cb3995461" />
+                        <Remove Target="bb6aa49a-7ec3-441e-bcda-e5c1783148e6" />
+                        <Remove Target="ed221770-c2b2-4ca1-af90-261951cde329" />
+                        <Remove Target="053e35a0-ff44-4105-b231-9565a75ae6f1" />
+                        <Remove Target="18d95e3f-2946-417e-bafb-6c6d8415fc11" />
+                        <Remove Target="85480153-3934-499c-901a-395e6c518629" />
+                        <Remove Target="d9195358-6e6b-4687-9004-9803ec47f18f" />
+                        <Remove Target="6377060c-1f41-4a73-ada0-2be636498d3c" />
+                        <Remove Target="2702ebf9-5ec2-42d6-b91d-9b6f5122438c" />
+                        <Remove Target="38bab259-c212-4dad-8c74-36a26f0ffa29" />
+                        <Remove Target="c7f33eab-39ce-4a6e-97a3-13e58b4b399e" />
+                        <Remove Target="ffae6419-db2c-4cc1-9a8d-af1e0044daaf" />
+                        <Remove Target="8c8282d2-9918-47f7-97ab-3f9d10f1baa7" />
+                        <Remove Target="4c5afa10-9168-4bbd-8730-7a06e27f7ca5" />
+                        <Remove Target="6e769db0-838d-45da-bc06-df464b61ed05" />
+                        <Remove Target="dbc6669d-4606-4b22-b6d3-32bd664edb04" />
+                        <Remove Target="f26b60e5-0e66-43bc-9dea-c5e9de4a649f" />
+                        <Remove Target="5f1e7209-c54b-4738-a20d-32ec5dd55e53" />
+                        <Remove Target="473f70c3-f3a1-4f51-869a-d29189a6eebd" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="76af84b1-e87d-45fd-8003-44ad4adbe5d1" ParentScene="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/02/2017 09:57:47" Id="c534fc45-a9f1-4c3b-bd76-6360ce7c8a5c">
+            <Scene.KeyFrames>
+                <KeyFrame Id="0074ff75-082a-4474-96ae-e3820fff382d">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ComboBox Hint="Search..." Id="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Panel.Bounds="833,103,150{5,2147483647},28{5,2147483647}">
+                                    <ComboBox.Items>
+                                        <Item Text="Arena Armeec" Id="73f8f02a-be69-4944-9dd5-a0fb8c34c4c4" />
+                                        <Item Text="Plazza Dance Center" Id="7e1506b2-533b-4329-bb67-93ad4e07f834" />
+                                        <Item Text="Olympico" Id="78b1c09a-b050-426e-8846-abb9fc0766e3" />
+                                    </ComboBox.Items>
+                                </ComboBox>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Find Hall" FontSize="18" FontFamily="Open Sans" Id="2a9c6c8d-1376-4599-904e-f7ae9ba07260" Panel.Bounds="741,106,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/tnz-ferro.png" Id="2814b905-ee7f-463f-b4f0-8f62b3182c81" Panel.Bounds="95,249,244{5,2147483647},196{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/pokriha-s-bylgarskiq-flag-cql-sektor-v-zala-arena-armeec-(snimki)-64816.jpg" Id="bf5f6198-1e36-4479-b00b-d4deb98683d4" Panel.Bounds="433,249,235{5,2147483647},196{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/1379590273484253.jpeg" Id="49bb0ff9-6a27-47b7-bbb7-b180711d57b3" Panel.Bounds="751,252,235{5,2147483647},193{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Stadio Olympico&#xD;&#xA;" FontFamily="Open Sans" Id="ddb18e14-19ee-4632-8912-d33a1c9c7e2a" Panel.Bounds="159,446,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Capacity 60000" FontFamily="Open Sans" Id="df4adf50-f287-4145-ae08-dd82d1d8436e" Panel.Bounds="159,472,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="City: Rome" FontFamily="Open Sans" Id="3cc4b972-d2bb-4c47-9e3a-c3e425c66cd4" Panel.Bounds="159,498,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Arena Armeec" FontFamily="Open Sans" Id="0c43cca3-5dcc-463c-a5bd-bd845290e04f" Panel.Bounds="499,446,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Capacity 20000" FontFamily="Open Sans" Id="fb7a3741-5f24-44b4-bdd9-1208a1729747" Panel.Bounds="499,472,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="City: Sofia" FontFamily="Open Sans" Id="410cd371-3cf9-4b79-99d7-29751d745b58" Panel.Bounds="499,498,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Plazza Dance Center" FontFamily="Open Sans" Id="d0e84c64-2958-4af3-8583-d91a6941edc8" Panel.Bounds="823,446,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="Capacity 1000" FontFamily="Open Sans" Id="44d8f29a-1a02-4cde-a083-176145b1dcca" Panel.Bounds="823,472,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="78ba66ab-4f2c-4d37-81b6-f87a69e34b93" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="City: Sofia" FontFamily="Open Sans" Id="e02f641c-96fc-4ea7-99e1-2a6d47ed52e8" Panel.Bounds="823,494,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="37e1fe2e-c403-41d5-b208-7d95f87924e0" Panel.Bounds="27,38,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" Created="11/06/2017 13:59:14" Id="90e8710c-192c-4a4a-9fc1-9d9b7f7b208f">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="18d95e3f-2946-417e-bafb-6c6d8415fc11" />
+                        <Remove Target="053e35a0-ff44-4105-b231-9565a75ae6f1" />
+                        <Remove Target="ed221770-c2b2-4ca1-af90-261951cde329" />
+                        <Remove Target="bb6aa49a-7ec3-441e-bcda-e5c1783148e6" />
+                        <Remove Target="85480153-3934-499c-901a-395e6c518629" />
+                        <Remove Target="d9195358-6e6b-4687-9004-9803ec47f18f" />
+                        <Remove Target="6377060c-1f41-4a73-ada0-2be636498d3c" />
+                        <Remove Target="2702ebf9-5ec2-42d6-b91d-9b6f5122438c" />
+                        <Remove Target="38bab259-c212-4dad-8c74-36a26f0ffa29" />
+                        <Remove Target="c7f33eab-39ce-4a6e-97a3-13e58b4b399e" />
+                        <Remove Target="8c8282d2-9918-47f7-97ab-3f9d10f1baa7" />
+                        <Remove Target="4c5afa10-9168-4bbd-8730-7a06e27f7ca5" />
+                        <Remove Target="6e769db0-838d-45da-bc06-df464b61ed05" />
+                        <Remove Target="ffae6419-db2c-4cc1-9a8d-af1e0044daaf" />
+                        <Remove Target="dbc6669d-4606-4b22-b6d3-32bd664edb04" />
+                        <Remove Target="473f70c3-f3a1-4f51-869a-d29189a6eebd" />
+                        <Remove Target="f26b60e5-0e66-43bc-9dea-c5e9de4a649f" />
+                        <Remove Target="5f1e7209-c54b-4738-a20d-32ec5dd55e53" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Tapped/Clicked maxresdefault" StateGroup="5dfdd472-5d61-467d-b9de-6665fad079a3" ParentScene="5dfdd472-5d61-467d-b9de-6665fad079a3" Created="11/05/2017 14:21:02" Id="b157014d-49b1-436f-9a23-5052147d6fa2">
+            <Scene.KeyFrames>
+                <KeyFrame Id="14f8e4e3-04ed-4441-8bbb-c6ec325ad1a2">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Buy now button.screenpart" Id="384f8f9e-db28-4342-901c-027b1d949c9d" Panel.Bounds="677,387,0*,0*">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="7743a801-9120-4d48-bafe-485fa8da3abe" Created="11/06/2017 12:43:20" Id="9a4d8f62-705a-4e5a-9991-896080947116">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" Direction="Right" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="cee72872-94a7-49a5-8489-83fe1c768f61" Panel.Bounds="17,29,0*,0*">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/06/2017 12:42:34" Id="e1113089-619c-437d-8c35-e6f7b9762932">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Event Description.screenpart" Id="6c97364f-61d5-4e91-8c61-acd4ae69c852" Panel.Bounds="558,193,0*,0*">
+                                    <ScreenPartInstance.Customizations>
+                                        <Remove Target="17c9a7a8-9922-4489-a421-0b276322367b" />
+                                    </ScreenPartInstance.Customizations>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/maxresdefault.jpg" Id="21ce7082-5466-4086-9bcc-ad837cd762cd" Panel.Bounds="102,155,400{5,2147483647},0*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="7863e58f-7f0a-413f-aa87-9c3ad96310ca" />
+                        <Remove Target="5ec2fab9-cc4d-47a5-826c-692012f3b2ca" />
+                        <Remove Target="c580fe54-abd1-4f77-b1b5-e798b9795309" />
+                        <Remove Target="edcacd58-cfa2-485e-883e-7d5a0e15b470" />
+                        <Remove Target="7bb77165-c0c7-46a7-845e-6b9ec7b0cd58" />
+                        <Remove Target="f4d562b7-d77d-4aa7-924b-ea04c74ae3bd" />
+                        <Remove Target="1b8b0201-6183-4bf4-b241-62b8b77dd702" />
+                        <Remove Target="76235702-5fcb-4cd1-bd66-3622d3de9834" />
+                        <Remove Target="4520edea-e9d8-4c6a-b01a-1c6c6a4e9f7e" />
+                        <Remove Target="5ecf84aa-a708-4593-8e5e-3a693809223d" />
+                        <Remove Target="7f892172-a58f-4a38-9c78-ad2a2bb07cd7" />
+                        <Remove Target="3cb12a3c-ed0c-4a3e-a3c2-d387a4ba1fb7" />
+                        <Remove Target="dae13cc7-5d94-4d88-bfb4-b21d1eb2b594" />
+                        <Remove Target="3b77f1a4-f3e8-4515-b7be-20604d30ba89" />
+                        <Remove Target="1f54d8af-8879-4bd0-95e4-1646f330ac19" />
+                        <Remove Target="07b11c49-9dec-4b85-b681-f0ded3e0319e" />
+                        <Remove Target="a11ba689-033d-40b0-b6fc-27b021543ba3" />
+                        <Remove Target="52e5661a-cfcd-42d9-a142-ac2bc5499027" />
+                        <Remove Target="56963fba-5663-4592-97cc-ec1a35df2355" />
+                        <Remove Target="ac71a4de-6ff3-4c5d-90a5-f61f43e8e477" />
+                        <Remove Target="27f5c2ce-539b-4183-9c73-8cbb554b05f5" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="b157014d-49b1-436f-9a23-5052147d6fa2" ParentScene="b157014d-49b1-436f-9a23-5052147d6fa2" Created="11/05/2017 14:32:12" Id="7743a801-9120-4d48-bafe-485fa8da3abe">
+            <Scene.KeyFrames>
+                <KeyFrame Id="3d9b0649-0af6-49a3-9a6d-e797c6287187">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title FontFamily="Roboto" Id="e8166c7e-0cbe-4bae-a3a1-724018a26f9c" Panel.Bounds="578,397,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label FontSize="24" FontFamily="Roboto" Id="67559198-eed8-46ff-8522-a3118f2dec25" Panel.Bounds="667,415,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/thumb-1920-292406.jpg" Id="654450c6-a64e-4f2a-8d96-bc2be3bfedaa" Panel.Bounds="568,97,250{5,2147483647},250{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="2d25ae17-d8dd-4003-8a1f-3fa1042cb5bf" Created="11/05/2017 20:38:10" Id="8559a4eb-751b-421c-8467-d17933e1dea6" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Screenpart4.screenpart" Id="4b36ab47-d142-4655-aef8-e5495cdf43cf" Panel.Bounds="554,368,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Control.Click" Target="cee72872-94a7-49a5-8489-83fe1c768f61">
+                            <Add.Item>
+                                <CommandNavigate Screen="/Screen.screen" State="b157014d-49b1-436f-9a23-5052147d6fa2" Created="11/06/2017 13:11:28" Id="dbdc1542-9250-48cb-bfc1-15a9b631c499">
+                                    <CommandNavigate.Transition>
+                                        <NavigateTransition Type="Slide" Duration="300" />
+                                    </CommandNavigate.Transition>
+                                </CommandNavigate>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Control.Click" Target="384f8f9e-db28-4342-901c-027b1d949c9d">
+                            <Add.Item>
+                                <CommandNavigate Screen="/Screen.screen" State="be09cf29-5267-4896-9615-aa1dd1f1d10b" Created="11/06/2017 13:12:06" Id="7fd384f1-a1c8-4fb2-b421-f963091dc016">
+                                    <CommandNavigate.Transition>
+                                        <NavigateTransition Type="Slide" Duration="300" />
+                                    </CommandNavigate.Transition>
+                                </CommandNavigate>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Screenpart.screenpart" Id="951ebb41-9590-4174-972b-2b9a72b32503" Panel.Bounds="178,121,0*,0*" />
+                            </Add.Item>
+                        </Add>
+                        <Move To="614,444" Target="384f8f9e-db28-4342-901c-027b1d949c9d" />
+                        <Remove Target="6c97364f-61d5-4e91-8c61-acd4ae69c852" />
+                        <Remove Target="e1113089-619c-437d-8c35-e6f7b9762932" />
+                        <Remove Target="9a4d8f62-705a-4e5a-9991-896080947116" />
+                        <Remove Target="21ce7082-5466-4086-9bcc-ad837cd762cd" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="7743a801-9120-4d48-bafe-485fa8da3abe" ParentScene="7743a801-9120-4d48-bafe-485fa8da3abe" Created="11/05/2017 14:47:40" Id="be09cf29-5267-4896-9615-aa1dd1f1d10b">
+            <Scene.KeyFrames>
+                <KeyFrame Id="5db8cde5-5b7a-422e-bba2-662b40487ad7">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="Congratulations!" FontSize="60" FontFamily="Roboto Condensed" FontStyle="Bold" Opacity="1" Id="88cdd569-c37d-4f30-baff-7094698cd7e3" Panel.Bounds="285,85,5*{5,2147483647},5*{5,2147483647}">
+                                    <Title.Click>
+                                        <CommandSwitchTo SceneId="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/05/2017 14:50:36" Id="051fe558-6852-4fb8-b2b5-383ccc36a0a4" />
+                                    </Title.Click>
+                                </Title>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/party-in-barcelona.jpg" Id="4c40cabd-4e26-4877-83a2-a7bccc727816" Panel.Bounds="180,234,600{5,2147483647},300{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Label RichText="&lt;Run FontSize=&quot;24&quot; &gt;Your purchase was successful!&lt;/Run&gt;" FontFamily="Roboto" Id="4a2042e1-7905-4161-9532-a75e17989c04" Panel.Bounds="319,173,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Control.Click" Target="cee72872-94a7-49a5-8489-83fe1c768f61">
+                            <Add.Item>
+                                <CommandNavigate Screen="/Screen.screen" Created="11/06/2017 13:36:32" Id="4572c4ce-1ddc-4c72-9044-74e402abb9dc">
+                                    <CommandNavigate.Transition>
+                                        <NavigateTransition Type="Push" Duration="300" />
+                                    </CommandNavigate.Transition>
+                                </CommandNavigate>
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="654450c6-a64e-4f2a-8d96-bc2be3bfedaa" />
+                        <Remove Target="4b36ab47-d142-4655-aef8-e5495cdf43cf" />
+                        <Remove Target="384f8f9e-db28-4342-901c-027b1d949c9d" />
+                        <Remove Target="951ebb41-9590-4174-972b-2b9a72b32503" />
+                        <Remove Target="dbdc1542-9250-48cb-bfc1-15a9b631c499" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Tapped/Clicked kSz1jtnn" StateGroup="76af84b1-e87d-45fd-8003-44ad4adbe5d1" ParentScene="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/05/2017 19:48:57" Id="971d0ff3-7e12-4cc7-8d63-58c7c6a822c8">
+            <Scene.KeyFrames>
+                <KeyFrame Id="f2f78b78-a045-4503-b647-74bb2a3f6f36">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/kSz1jtnn.jpg" Id="33665319-7208-4050-98bc-70b9d576bb22" Panel.Bounds="319,145,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="OFFICIAL SPONSOR" FontFamily="Roboto" Id="03663150-6253-42d2-ae3d-505cae448403" Panel.Bounds="432,65,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="1c34ddd8-a903-46de-8e5f-4a9851665833" Panel.Bounds="56,44,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" Created="11/06/2017 13:28:36" Id="7a6f22a0-8754-4a9f-95ce-698519ce5fb5">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="ed221770-c2b2-4ca1-af90-261951cde329" />
+                        <Remove Target="85480153-3934-499c-901a-395e6c518629" />
+                        <Remove Target="18d95e3f-2946-417e-bafb-6c6d8415fc11" />
+                        <Remove Target="053e35a0-ff44-4105-b231-9565a75ae6f1" />
+                        <Remove Target="bb6aa49a-7ec3-441e-bcda-e5c1783148e6" />
+                        <Remove Target="ffae6419-db2c-4cc1-9a8d-af1e0044daaf" />
+                        <Remove Target="d9195358-6e6b-4687-9004-9803ec47f18f" />
+                        <Remove Target="6377060c-1f41-4a73-ada0-2be636498d3c" />
+                        <Remove Target="2702ebf9-5ec2-42d6-b91d-9b6f5122438c" />
+                        <Remove Target="38bab259-c212-4dad-8c74-36a26f0ffa29" />
+                        <Remove Target="c7f33eab-39ce-4a6e-97a3-13e58b4b399e" />
+                        <Remove Target="4c5afa10-9168-4bbd-8730-7a06e27f7ca5" />
+                        <Remove Target="8c8282d2-9918-47f7-97ab-3f9d10f1baa7" />
+                        <Remove Target="6e769db0-838d-45da-bc06-df464b61ed05" />
+                        <Remove Target="f26b60e5-0e66-43bc-9dea-c5e9de4a649f" />
+                        <Remove Target="5f1e7209-c54b-4738-a20d-32ec5dd55e53" />
+                        <Remove Target="dbc6669d-4606-4b22-b6d3-32bd664edb04" />
+                        <Remove Target="473f70c3-f3a1-4f51-869a-d29189a6eebd" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Tapped/Clicked thumb-1920-292406" StateGroup="1d4179c5-a3fd-42a7-ad90-792ddcf7cbd4" ParentScene="1d4179c5-a3fd-42a7-ad90-792ddcf7cbd4" Created="11/05/2017 19:51:43" Id="2d25ae17-d8dd-4003-8a1f-3fa1042cb5bf">
+            <Scene.KeyFrames>
+                <KeyFrame Id="9c02c914-8b22-423c-9756-954f2f7aa2cc">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/thumb-1920-292406.jpg" Id="3438e2ba-ae35-44a9-8ce6-3a4829305953" Panel.Bounds="97,112,800{5,2147483647},0*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="59cf2d6b-1d69-4b60-be95-60b1c254e1ff" Panel.Bounds="27,32,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" Created="11/06/2017 13:28:06" Id="148e5e3b-a21d-4ea9-9299-6fcc4042d158">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Move To="379,64" Target="03663150-6253-42d2-ae3d-505cae448403" />
+                        <Remove Target="85480153-3934-499c-901a-#6aef2df23c16" />
+                        <Remove Target="ed221770-c2b2-4ca1-af90-#145e1e56b1ec" />
+                        <Remove Target="18d95e3f-2946-417e-bafb-#19154c8617d2" />
+                        <Remove Target="053e35a0-ff44-4105-b231-#562a12b8a347" />
+                        <Remove Target="bb6aa49a-7ec3-441e-bcda-#eabf7bc14762" />
+                        <Remove Target="1c34ddd8-a903-46de-8e5f-4a9851665833" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Tapped/Clicked Image_5824548_126" StateGroup="5dfdd472-5d61-467d-b9de-6665fad079a3" ParentScene="5dfdd472-5d61-467d-b9de-6665fad079a3" Created="11/05/2017 19:56:13" Id="e1c17934-e8c9-4786-8f92-bfa07e001988">
+            <Scene.KeyFrames>
+                <KeyFrame Id="803e86cb-b4da-4265-bebc-82dd2e929ad5">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/Image_5824548_126.jpg" Id="abc98d44-f390-4194-86fd-d711f59c45b4" Panel.Bounds="79,104,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Buy now button.screenpart" Id="b0f1a50b-0f6d-4001-96a1-308bd0cc6e25" Panel.Bounds="653,308,158*{5,2147483647},86{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="fbf40904-d040-4243-a36e-4df7d6422936" Created="11/06/2017 13:03:49" Id="5fc063fe-9ecc-492f-8767-ff739cd08647">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" Direction="Right" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Event Description.screenpart" Id="36baab80-dab3-4186-a5e9-540013edc0f2" Panel.Bounds="510,110,435{5,2147483647},155{5,2147483647}">
+                                    <ScreenPartInstance.Customizations>
+                                        <Set Property="Label.RichText" Value="18 November 2017 " Target="9609550d-4bbd-49df-ac58-909d01808084" />
+                                        <Set Property="Label.RichText" Value="Location: Stadio Olympico, Rome" Target="5a9461c5-7576-4fae-8f37-eb9f1dcc720f" />
+                                        <Move To="54,9" Target="9609550d-4bbd-49df-ac58-909d01808084" />
+                                        <Set Property="Label.RichText" Value="Ticket Price: 20 lv" Target="e575525b-54f7-4e26-b5ba-a515fb19e92b" />
+                                        <Move To="7,123" Target="dc4fd31f-31a6-4cab-8cac-36157208221e" />
+                                        <Remove Target="17c9a7a8-9922-4489-a421-0b276322367b" />
+                                    </ScreenPartInstance.Customizations>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="c0ad0121-570e-421a-b9d5-51d92ecc57b5" Panel.Bounds="18,40,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/06/2017 13:01:33" Id="0ea90a13-1de9-4db5-b9c2-86931b916d2d">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" Direction="Right" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="c580fe54-abd1-4f77-b1b5-e798b9795309" />
+                        <Remove Target="7863e58f-7f0a-413f-aa87-9c3ad96310ca" />
+                        <Remove Target="5ec2fab9-cc4d-47a5-826c-692012f3b2ca" />
+                        <Remove Target="edcacd58-cfa2-485e-883e-7d5a0e15b470" />
+                        <Remove Target="7bb77165-c0c7-46a7-845e-6b9ec7b0cd58" />
+                        <Remove Target="f4d562b7-d77d-4aa7-924b-ea04c74ae3bd" />
+                        <Remove Target="1b8b0201-6183-4bf4-b241-62b8b77dd702" />
+                        <Remove Target="5ecf84aa-a708-4593-8e5e-3a693809223d" />
+                        <Remove Target="3b77f1a4-f3e8-4515-b7be-20604d30ba89" />
+                        <Remove Target="56963fba-5663-4592-97cc-ec1a35df2355" />
+                        <Remove Target="52e5661a-cfcd-42d9-a142-ac2bc5499027" />
+                        <Remove Target="ac71a4de-6ff3-4c5d-90a5-f61f43e8e477" />
+                        <Remove Target="1f54d8af-8879-4bd0-95e4-1646f330ac19" />
+                        <Remove Target="76235702-5fcb-4cd1-bd66-3622d3de9834" />
+                        <Remove Target="7f892172-a58f-4a38-9c78-ad2a2bb07cd7" />
+                        <Remove Target="27f5c2ce-539b-4183-9c73-8cbb554b05f5" />
+                        <Remove Target="a11ba689-033d-40b0-b6fc-27b021543ba3" />
+                        <Remove Target="dae13cc7-5d94-4d88-bfb4-b21d1eb2b594" />
+                        <Remove Target="3cb12a3c-ed0c-4a3e-a3c2-d387a4ba1fb7" />
+                        <Remove Target="4520edea-e9d8-4c6a-b01a-1c6c6a4e9f7e" />
+                        <Remove Target="07b11c49-9dec-4b85-b681-f0ded3e0319e" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="e1c17934-e8c9-4786-8f92-bfa07e001988" ParentScene="e1c17934-e8c9-4786-8f92-bfa07e001988" Created="11/05/2017 20:01:00" Id="fbf40904-d040-4243-a36e-4df7d6422936">
+            <Scene.KeyFrames>
+                <KeyFrame Id="977a32a6-5a6f-41c8-9f37-c7facebd8442">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/kSz1jtnn.jpg" Id="a2bc9164-8af7-41b7-bf1a-628e8b37a3a6" Panel.Bounds="596,78,250{5,2147483647},250{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="971d0ff3-7e12-4cc7-8d63-58c7c6a822c8" Created="11/05/2017 20:36:47" Id="1711db4d-5f9d-4337-ab30-ba0d5a757db7" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Screenpart4.screenpart" Id="25262a1b-a71f-4557-a49a-8dd225fb863a" Panel.Bounds="575,341,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Customizations>
+                                        <Set Property="Button.Text" Value="Total Price: 20lv" Target="42df8e48-53fd-496d-99f8-091c91c09295" />
+                                    </ScreenPartInstance.Customizations>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Control.Click" Target="c0ad0121-570e-421a-b9d5-51d92ecc57b5">
+                            <Add.Item>
+                                <CommandNavigate Screen="/Screen.screen" State="e1c17934-e8c9-4786-8f92-bfa07e001988" Created="11/06/2017 13:16:07" Id="688cb21b-2974-4875-97c9-f7aee36520df">
+                                    <CommandNavigate.Transition>
+                                        <NavigateTransition Type="Slide" Duration="300" />
+                                    </CommandNavigate.Transition>
+                                </CommandNavigate>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Control.Click" Target="b0f1a50b-0f6d-4001-96a1-308bd0cc6e25">
+                            <Add.Item>
+                                <CommandNavigate Screen="/Screen.screen" State="be09cf29-5267-4896-9615-aa1dd1f1d10b" Created="11/06/2017 13:16:41" Id="971436cb-3adf-4cce-9585-5d81c6dfeb99">
+                                    <CommandNavigate.Transition>
+                                        <NavigateTransition Type="Slide" Duration="300" Direction="Right" />
+                                    </CommandNavigate.Transition>
+                                </CommandNavigate>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Screenpart.screenpart" Id="e12aeba3-6cf1-4e9c-893f-c0a52813edf7" Panel.Bounds="203,91,290*{5,2147483647},438{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Move To="642,424" Target="b0f1a50b-0f6d-4001-96a1-308bd0cc6e25" />
+                        <Remove Target="abc98d44-f390-4194-86fd-d711f59c45b4" />
+                        <Remove Target="36baab80-dab3-4186-a5e9-540013edc0f2" />
+                        <Remove Target="0ea90a13-1de9-4db5-b9c2-86931b916d2d" />
+                        <Remove Target="5fc063fe-9ecc-492f-8767-ff739cd08647" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Tapped/Clicked U2" StateGroup="76af84b1-e87d-45fd-8003-44ad4adbe5d1" ParentScene="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/05/2017 20:13:59" Id="be0a5efb-cfb8-4ee3-9e92-e02207771c89">
+            <Scene.KeyFrames>
+                <KeyFrame Id="41c3ffa2-1a38-4b88-892d-44da63bb96b2">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/U2.jpg" Id="acca70c7-161c-415e-b816-14c0a7253492" Panel.Bounds="70,123,0*{5,2147483647},300{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="3b9f6497-ed1f-4672-9bb6-4c355143502d" Panel.Bounds="38,35,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/06/2017 13:21:39" Id="ecfd3dc7-4c01-4b76-8aa2-4d8637dd81a5">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Buy now button.screenpart" Id="e977616e-020e-4379-bc07-41bcd803cee3" Panel.Bounds="710,388,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="6b9ca878-d230-4979-a702-ef2f52258bd4" Created="11/06/2017 13:21:59" Id="36840252-70cf-4c6c-8c54-9dd948886eb2">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Event Description.screenpart" Id="7aaae8f3-e90a-4854-a488-92c9f51252a1" Panel.Bounds="626,129,404{5,2147483647},202{5,2147483647}">
+                                    <ScreenPartInstance.Customizations>
+                                        <Set Property="Label.RichText" Value="31 October 2017 " Target="9609550d-4bbd-49df-ac58-909d01808084" />
+                                        <Set Property="Label.RichText" Value="Location:&#xD;&#xA;Plazza Dance Center, Sofia" Target="5a9461c5-7576-4fae-8f37-eb9f1dcc720f" />
+                                        <Move To="4,138" Target="dc4fd31f-31a6-4cab-8cac-36157208221e" />
+                                        <Move To="54,138" Target="e575525b-54f7-4e26-b5ba-a515fb19e92b" />
+                                        <Move To="4,78" Target="9399ddec-438a-4785-83fb-494e42c9e29f" />
+                                        <Set Property="Label.RichText" Value="Ticket Price: 60 lv" Target="e575525b-54f7-4e26-b5ba-a515fb19e92b" />
+                                        <Remove Target="17c9a7a8-9922-4489-a421-0b276322367b" />
+                                    </ScreenPartInstance.Customizations>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="ed221770-c2b2-4ca1-af90-261951cde329" />
+                        <Remove Target="053e35a0-ff44-4105-b231-9565a75ae6f1" />
+                        <Remove Target="18d95e3f-2946-417e-bafb-6c6d8415fc11" />
+                        <Remove Target="85480153-3934-499c-901a-395e6c518629" />
+                        <Remove Target="bb6aa49a-7ec3-441e-bcda-e5c1783148e6" />
+                        <Remove Target="ffae6419-db2c-4cc1-9a8d-af1e0044daaf" />
+                        <Remove Target="d9195358-6e6b-4687-9004-9803ec47f18f" />
+                        <Remove Target="6377060c-1f41-4a73-ada0-2be636498d3c" />
+                        <Remove Target="2702ebf9-5ec2-42d6-b91d-9b6f5122438c" />
+                        <Remove Target="38bab259-c212-4dad-8c74-36a26f0ffa29" />
+                        <Remove Target="c7f33eab-39ce-4a6e-97a3-13e58b4b399e" />
+                        <Remove Target="8c8282d2-9918-47f7-97ab-3f9d10f1baa7" />
+                        <Remove Target="6e769db0-838d-45da-bc06-df464b61ed05" />
+                        <Remove Target="4c5afa10-9168-4bbd-8730-7a06e27f7ca5" />
+                        <Remove Target="f26b60e5-0e66-43bc-9dea-c5e9de4a649f" />
+                        <Remove Target="473f70c3-f3a1-4f51-869a-d29189a6eebd" />
+                        <Remove Target="dbc6669d-4606-4b22-b6d3-32bd664edb04" />
+                        <Remove Target="5f1e7209-c54b-4738-a20d-32ec5dd55e53" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="be0a5efb-cfb8-4ee3-9e92-e02207771c89" ParentScene="be0a5efb-cfb8-4ee3-9e92-e02207771c89" Created="11/05/2017 20:18:08" Id="6b9ca878-d230-4979-a702-ef2f52258bd4">
+            <Scene.KeyFrames>
+                <KeyFrame Id="608675b5-89ee-406e-9463-f8fb47ec438c">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Image SourcePath="assets/kSz1jtnn.jpg" Id="31eda56e-8f34-4c5c-b046-e8b35a0d7814" Panel.Bounds="595,90,0*{5,2147483647},250{5,2147483647}">
+                                    <Image.Click>
+                                        <CommandSwitchTo SceneId="971d0ff3-7e12-4cc7-8d63-58c7c6a822c8" Created="11/05/2017 20:34:23" Id="1f890c9c-b760-4439-9120-af1ed130f666" />
+                                    </Image.Click>
+                                </Image>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Control.Click" Target="3b9f6497-ed1f-4672-9bb6-4c355143502d">
+                            <Add.Item>
+                                <CommandNavigate Screen="/Screen.screen" State="be0a5efb-cfb8-4ee3-9e92-e02207771c89" Created="11/06/2017 13:23:38" Id="35bef010-f010-432a-badd-c3a693970f93">
+                                    <CommandNavigate.Transition>
+                                        <NavigateTransition Type="Slide" Duration="300" />
+                                    </CommandNavigate.Transition>
+                                </CommandNavigate>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Screenpart4.screenpart" Id="ab250538-ddbc-4a76-ae2c-a7a994429a50" Panel.Bounds="573,361,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Customizations>
+                                        <Set Property="Button.Text" Value="Total Price: 60lv" Target="42df8e48-53fd-496d-99f8-091c91c09295" />
+                                    </ScreenPartInstance.Customizations>
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" State="be09cf29-5267-4896-9615-aa1dd1f1d10b" Created="11/06/2017 13:37:25" Id="4a0efc7b-a70c-4087-804c-2fca03c379b2">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" Direction="Right" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Screenpart.screenpart" Id="5c347dee-e191-4a1f-a45c-15af15b2d130" Panel.Bounds="215,90,290*{5,2147483647},441{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="GuidesInfo.Guides" Target="ff5a542e-e089-4fc1-a2ef-87871b64f43b">
+                            <Add.Item>
+                                <Guide Position="1074" Id="642718f7-8632-4a1b-a5e1-a67f3210ae9a" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Control.Click" Target="e977616e-020e-4379-bc07-41bcd803cee3">
+                            <Add.Item>
+                                <CommandNavigate Screen="/Screen.screen" State="be09cf29-5267-4896-9615-aa1dd1f1d10b" Created="11/06/2017 13:38:00" Id="90e61a32-481e-4a50-b59f-ddf8fb173582">
+                                    <CommandNavigate.Transition>
+                                        <NavigateTransition Type="Slide" Duration="300" Direction="Right" />
+                                    </CommandNavigate.Transition>
+                                </CommandNavigate>
+                            </Add.Item>
+                        </Add>
+                        <Move To="641,435" Target="e977616e-020e-4379-bc07-41bcd803cee3" />
+                        <Remove Target="acca70c7-161c-415e-b816-14c0a7253492" />
+                        <Remove Target="7aaae8f3-e90a-4854-a488-92c9f51252a1" />
+                        <Remove Target="ecfd3dc7-4c01-4b76-8aa2-4d8637dd81a5" />
+                        <Remove Target="36840252-70cf-4c6c-8c54-9dd948886eb2" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="76af84b1-e87d-45fd-8003-44ad4adbe5d1" ParentScene="76af84b1-e87d-45fd-8003-44ad4adbe5d1" Created="11/06/2017 10:11:01" Id="37d03ef7-4178-4186-9865-81b5a4dd90b6">
+            <Scene.KeyFrames>
+                <KeyFrame Id="d25b4721-968c-456d-9618-dff880f0ebd6">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="Login" FontFamily="Roboto" Id="2e96d5a2-5ce6-41b8-814a-96ba2fffce24" Panel.Bounds="505,152,120{5,2147483647},59{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <TextBox FontFamily="Roboto" Id="ceead842-b188-4aaa-b450-f4d8de392ad2" Panel.Bounds="534,239,250{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <TextBox FontFamily="Roboto" Id="5e3d300e-a304-4837-8ba7-cb27edb95baf" Panel.Bounds="534,286,250{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="&lt;Run FontSize=&quot;24&quot; &gt;Username&lt;/Run&gt;" FontFamily="Roboto" Id="f86a09a6-d653-4ff7-b31c-6224befec08a" Panel.Bounds="349,236,111*{5,2147483647},27{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="Password" FontSize="24" FontFamily="Roboto" Id="499b2bd8-1970-4a59-84cd-d58e2359b056" Panel.Bounds="353,283,107*{5,2147483647},27{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Button Text="Login" FontFamily="Roboto" Id="45c7649c-f499-4b77-ab6b-9599d7224d3c" Panel.Bounds="704,339,80{5,2147483647},29{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Link Text="Create account" FontSize="16" FontFamily="Roboto" FontStyle="Normal|Underline" Id="0b943f98-a41f-4db4-895a-e5d4d0ccb0ca" Name="Register" Panel.Bounds="357,343,5*{5,2147483647},5*{5,2147483647}">
+                                    <Link.Click>
+                                        <CommandSwitchTo SceneId="49e82a7f-edd7-45ea-8824-b221158ff52d" Created="11/06/2017 10:11:57" Id="388d7f01-8c07-4898-a515-18ed3ec082db" />
+                                    </Link.Click>
+                                </Link>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Link Text="Forgotten Password" FontSize="16" FontFamily="Roboto" FontStyle="Normal|Underline" Id="5c392f0c-14b6-4a6d-9b4f-14cda1790e12" Panel.Bounds="517,343,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="b92af9a8-56fb-4b0e-ba10-c5361e348b47" Panel.Bounds="47,38,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" Created="11/06/2017 13:58:35" Id="a1bd30ef-cc7d-450e-bfa7-e439065d5c84">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Push" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="ed221770-c2b2-4ca1-af90-261951cde329" />
+                        <Remove Target="bb6aa49a-7ec3-441e-bcda-e5c1783148e6" />
+                        <Remove Target="053e35a0-ff44-4105-b231-9565a75ae6f1" />
+                        <Remove Target="18d95e3f-2946-417e-bafb-6c6d8415fc11" />
+                        <Remove Target="85480153-3934-499c-901a-395e6c518629" />
+                        <Remove Target="6377060c-1f41-4a73-ada0-2be636498d3c" />
+                        <Remove Target="d9195358-6e6b-4687-9004-9803ec47f18f" />
+                        <Remove Target="38bab259-c212-4dad-8c74-36a26f0ffa29" />
+                        <Remove Target="c7f33eab-39ce-4a6e-97a3-13e58b4b399e" />
+                        <Remove Target="8c8282d2-9918-47f7-97ab-3f9d10f1baa7" />
+                        <Remove Target="6e769db0-838d-45da-bc06-df464b61ed05" />
+                        <Remove Target="4c5afa10-9168-4bbd-8730-7a06e27f7ca5" />
+                        <Remove Target="2702ebf9-5ec2-42d6-b91d-9b6f5122438c" />
+                        <Remove Target="ffae6419-db2c-4cc1-9a8d-af1e0044daaf" />
+                        <Remove Target="dbc6669d-4606-4b22-b6d3-32bd664edb04" />
+                        <Remove Target="f26b60e5-0e66-43bc-9dea-c5e9de4a649f" />
+                        <Remove Target="473f70c3-f3a1-4f51-869a-d29189a6eebd" />
+                        <Remove Target="5f1e7209-c54b-4738-a20d-32ec5dd55e53" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Tapped/Clicked Register" StateGroup="37d03ef7-4178-4186-9865-81b5a4dd90b6" ParentScene="37d03ef7-4178-4186-9865-81b5a4dd90b6" Created="11/06/2017 10:11:57" Id="49e82a7f-edd7-45ea-8824-b221158ff52d">
+            <Scene.KeyFrames>
+                <KeyFrame Id="d76dc04e-bf2e-4bb5-802d-a30177806e62">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="Registration" FontFamily="Roboto" Id="06252ffe-b9cf-44f8-8dcf-8d4272be1e0d" Panel.Bounds="452,119,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <TextBox FontFamily="Roboto" Id="e38d3a4b-43ad-4f81-ae3c-422deb55c0e7" Panel.Bounds="530,230,254{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <TextBox FontFamily="Roboto" Id="134f1782-19ca-44e9-ae8a-ee983650ff3a" Panel.Bounds="530,278,254{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <TextBox FontFamily="Roboto" Id="34cfc14d-5f72-499e-baf6-e5cbb71431e6" Panel.Bounds="530,325,254{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <TextBox FontFamily="Roboto" Id="1be8b1ee-6d92-4f6c-adec-a3f1880a282e" Panel.Bounds="530,373,254{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="&lt;Run FontSize=&quot;24&quot; &gt;Username&lt;/Run&gt;" FontFamily="Roboto" Id="a24f0a4d-1948-4f5e-a3d0-a4527d201f88" Panel.Bounds="342,227,113{5,2147483647},27{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="&lt;Run FontSize=&quot;24&quot; &gt;E-mail&lt;/Run&gt;" FontFamily="Roboto" Id="ebd8f4af-f607-4cd3-aa44-81e33d044c45" Panel.Bounds="387,275,68{5,2147483647},27{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="Password" FontSize="24" FontFamily="Roboto" Id="486276fd-b1bc-498f-a3f1-29c92e2ab887" Panel.Bounds="346,319,109{5,2147483647},27{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Title RichText="&lt;Run FontSize=&quot;24&quot; &gt;Repeat Password&#xD;&#xA;&lt;/Run&gt;" FontFamily="Roboto" Id="d20adb60-a1e9-45c2-b9b0-4f1f68e3ff58" Panel.Bounds="263,363,193{5,2147483647},54{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Button Text="Close" FontFamily="Roboto" Id="1ad7e39c-33b5-484a-a3b0-a7cb74106b38" Panel.Bounds="703,421,81{5,2147483647},29{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <Button Text="Submit" FontFamily="Roboto" Id="65cc14e6-5c99-4bc7-a5b0-ec0a496829c6" Panel.Bounds="588,421,81{5,2147483647},29{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="742f81b3-24d4-461a-9c49-4d6aafda30b6">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="6c86636b-297b-4eb8-a45e-342c91e509c1" Panel.Bounds="53,34,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/Screen.screen" Created="11/06/2017 13:54:00" Id="ef173dc4-c456-4232-bc36-bf3a51c1583e">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Remove Target="2e96d5a2-5ce6-41b8-814a-96ba2fffce24" />
+                        <Remove Target="f86a09a6-d653-4ff7-b31c-6224befec08a" />
+                        <Remove Target="499b2bd8-1970-4a59-84cd-d58e2359b056" />
+                        <Remove Target="5e3d300e-a304-4837-8ba7-cb27edb95baf" />
+                        <Remove Target="ceead842-b188-4aaa-b450-f4d8de392ad2" />
+                        <Remove Target="0b943f98-a41f-4db4-895a-e5d4d0ccb0ca" />
+                        <Remove Target="45c7649c-f499-4b77-ab6b-9599d7224d3c" />
+                        <Remove Target="5c392f0c-14b6-4a6d-9b4f-14cda1790e12" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+    </Page.Scenes>
+</Page>

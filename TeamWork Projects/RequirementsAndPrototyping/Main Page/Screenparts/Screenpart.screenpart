@@ -1,0 +1,108 @@
+﻿<?Infragistics.Models format="xaml" version="3" appVersion="9.2.1000.51"?>
+<ScreenPart xmlns="http://prototypes.infragistics.com/"
+                                                                                        xmlns:d="http://prototypes.infragistics.com/views/design"
+                                                                                        Id="1bc8c036-3be5-4652-ac78-039ae6d5f58e" d:Design.ShowGuides="False">
+    <ScreenPart.Content>
+        <BorderedContent Width="290" Height="296" Background="#00FFFFFF" Id="5ba8b315-c7ec-4a0b-84de-f0d03d5bfb39">
+            <BorderedContent.Layers>
+                <Layer Id="57e1868c-a879-4508-bb84-cfe7727e4ab5" Panel.Layout="Stretch" />
+                <AnnotationsLayer Id="dcd2cb8c-2c10-4e2a-98ed-1717e6864c46" Panel.Layout="Stretch" />
+            </BorderedContent.Layers>
+            <BorderedContent.Viewbox>
+                <Viewbox Id="498e0856-87a8-41ab-822c-b29a01f36452" />
+            </BorderedContent.Viewbox>
+            <BorderedContent.GuidesInfo>
+                <GuidesInfo Id="16606dcb-d01d-4aab-a235-aef9f4534d6e" />
+            </BorderedContent.GuidesInfo>
+        </BorderedContent>
+    </ScreenPart.Content>
+    <ScreenPart.Device>
+        <DeviceInfo Id="none" Orientation="None" />
+    </ScreenPart.Device>
+    <ScreenPart.Scenes>
+        <Scene Title="Start" Created="11/06/2017 13:24:17" Id="9a500fed-1adf-4f35-99b6-d60e74f8839f">
+            <Scene.KeyFrames>
+                <KeyFrame Id="17daa4e1-9115-41e2-80d9-704ef9e96dfc">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <Label RichText="Firstname" FontFamily="Roboto" Id="85a114b1-6d7b-41fa-a17b-a644bc08c4c8" Panel.Bounds="17,0,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <TextBox WatermarkText="Enter your firstname here..." FontFamily="Roboto" Id="e0df71fc-9c49-4b05-aa9d-c60cff57e343" Panel.Bounds="110,0,180{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <Label RichText="Lastname" FontFamily="Roboto" Id="2757e34e-847f-4727-bb5a-67920c001715" Panel.Bounds="17,43,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <TextBox WatermarkText="Enter your lastname here..." FontFamily="Roboto" Id="849d86e8-0803-4010-85d9-345af4d3b060" Panel.Bounds="110,40,180{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <Label RichText="Email" FontFamily="Roboto" Id="4854809c-4023-4022-a21a-9f8a2fd1dd90" Panel.Bounds="41,86,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <Label RichText="Card Number" FontFamily="Roboto" Id="5ec1ff79-1327-4828-ac8b-f597e79d7004" Panel.Bounds="0,129,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <Label RichText="CVV Code" FontFamily="Roboto" Id="62e17443-9407-4b3f-9b5c-e44c062c81de" Panel.Bounds="16,165,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <Label RichText="Password" FontFamily="Roboto" Id="8c99b244-a162-48b8-adb9-e56f893b2896" Panel.Bounds="17,205,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <TextBox WatermarkText="example@gmail.com" FontFamily="Roboto" Id="e9fbe4a0-0e76-403d-b4d6-998fa4fcb87e" Panel.Bounds="110,80,180{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <TextBox FontFamily="Roboto" Id="b7359b99-e129-4579-a3bb-fd91c46b8b74" Panel.Bounds="110,123,180{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <TextBox FontFamily="Roboto" Id="307dfbe5-80ab-43dc-b8dc-263d3a853f5a" Panel.Bounds="110,162,46{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <Label RichText="Quantity" FontFamily="Roboto" Id="e11dc063-674a-4fd1-8b3a-0cf564e23191" Panel.Bounds="26,268,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <PasswordBox WatermarkText="Enter your password here..." FontFamily="Roboto" Id="94383e37-b87a-46e7-b2d2-9728033c9f4c" Panel.Bounds="110,202,180{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="57e1868c-a879-4508-bb84-cfe7727e4ab5">
+                            <Add.Item>
+                                <ComboBox IsOpen="True" FontFamily="Roboto" Id="61cde40d-1b27-46e4-ad43-72a65c38283e" Panel.Bounds="112,268,150{5,2147483647},28{5,2147483647}">
+                                    <ComboBox.Items>
+                                        <Item Text="1 ticket" Id="cfaa7017-a28b-4bf9-8ee7-e99e63991902" />
+                                        <Item Text="2 tickets" Id="6f5aebed-2637-420e-845c-297826252b2e" />
+                                        <Item Text="3 tickets" Id="5d717bd6-d696-40db-8115-3d5f6e9990c0" />
+                                    </ComboBox.Items>
+                                </ComboBox>
+                            </Add.Item>
+                        </Add>
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+    </ScreenPart.Scenes>
+</ScreenPart>

@@ -1,0 +1,37 @@
+﻿<?Infragistics.Models format="xaml" version="3" appVersion="9.2.1000.51"?>
+<ScreenPart xmlns="http://prototypes.infragistics.com/"
+                                                                                        xmlns:d="http://prototypes.infragistics.com/views/design"
+                                                                                        Id="71179b47-a982-4d3e-ba1e-f873a2577815" d:Design.ShowGuides="False">
+    <ScreenPart.Content>
+        <BorderedContent Width="158" Height="47" Background="#00FFFFFF" Id="0c5b2d0d-5fc2-4e85-902c-99c3b6e168cf">
+            <BorderedContent.Layers>
+                <Layer Id="015a66ab-3488-4de5-9457-c155f28990f3" Panel.Layout="Stretch" />
+                <AnnotationsLayer Id="fac6cf97-6880-434b-96f3-8697efc1f2d1" Panel.Layout="Stretch" />
+            </BorderedContent.Layers>
+            <BorderedContent.Viewbox>
+                <Viewbox Id="72dcc853-f6f1-4832-98a5-5c7b23d7c2d2" />
+            </BorderedContent.Viewbox>
+            <BorderedContent.GuidesInfo>
+                <GuidesInfo Id="755f1435-c5fe-45ed-a42c-21e051ab901a" />
+            </BorderedContent.GuidesInfo>
+        </BorderedContent>
+    </ScreenPart.Content>
+    <ScreenPart.Device>
+        <DeviceInfo Id="none" Orientation="None" />
+    </ScreenPart.Device>
+    <ScreenPart.Scenes>
+        <Scene Title="Start" Created="11/06/2017 12:37:57" Id="7e3b2ce3-78a2-4104-a09d-08ac6c181527">
+            <Scene.KeyFrames>
+                <KeyFrame Id="92ebb108-2bcb-498c-adc1-425b28d00091">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="015a66ab-3488-4de5-9457-c155f28990f3">
+                            <Add.Item>
+                                <Button Text="BUY NOW" Background="#FF48C157" BorderColor="#FF153153" CornerRadius="12" BorderThickness="3" FontSize="21" FontFamily="Roboto Condensed" FontStyle="Bold" Id="82b872ff-1bb8-4247-a6fe-154754e4d143" Panel.Bounds="0,0,158{5,2147483647},47{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+    </ScreenPart.Scenes>
+</ScreenPart>

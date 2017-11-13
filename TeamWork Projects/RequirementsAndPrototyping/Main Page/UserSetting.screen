@@ -1,0 +1,125 @@
+﻿<?Infragistics.Models format="xaml" version="29" appVersion="9.2.1000.51"?>
+<Page xmlns="http://prototypes.infragistics.com/"
+                                                                                   Id="6bac2a62-7c8d-4400-ae18-8133a5194bf8">
+    <Page.Content>
+        <Content Width="1024" Height="768" Id="a0e6c992-3815-4c84-a070-49d5209c4567">
+            <Content.Layers>
+                <Layer Id="38f9e9b5-c7b8-4604-b496-ac1a23fb5164" Panel.Layout="Stretch" />
+                <AnnotationsLayer Id="ee2e71c7-3597-46cf-b2b0-1d5c0bb0d9ba" Panel.Layout="Stretch" />
+            </Content.Layers>
+            <Content.Viewbox>
+                <Viewbox Id="aab9fccb-1e95-437a-927d-87d85a34bc0b" />
+            </Content.Viewbox>
+            <Content.GuidesInfo>
+                <GuidesInfo Id="b90ea88f-2746-4fed-a918-40680c80520f" />
+            </Content.GuidesInfo>
+        </Content>
+    </Page.Content>
+    <Page.Device>
+        <DeviceInfo Id="none" Orientation="None" />
+    </Page.Device>
+    <Page.Scenes>
+        <Scene Title="Start" Created="11/06/2017 17:26:06" Id="35d86449-25d2-48f4-ae62-ebf52eb68d07">
+            <Scene.KeyFrames>
+                <KeyFrame Id="6896066d-509a-43d7-ba6a-c132f79ca046">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Rectangle Background="#FFC0D5EF" Id="6025b78a-f445-4570-a1e7-339528f94651" Panel.Bounds="73,137,741{5,2147483647},449{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Title RichText="Settings" FontFamily="Open Sans" Id="166119c5-2bc7-488d-8fc6-4cc82d6d523d" Panel.Bounds="277,218,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Image Id="83de6fd3-badd-45e1-b4b5-1245b4f85e79" Panel.Bounds="605,178,151{5,2147483647},151{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Label RichText="&lt;Run FontSize=&quot;18&quot; FontWeight=&quot;Bold&quot; &gt;Change Password:&lt;/Run&gt;" FontFamily="Open Sans" Id="756d3d38-5535-43e5-828b-86a5a197b8e0" Panel.Bounds="229,304,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Group GroupName="Group" Id="3a199301-cdd4-4334-81ac-e01b001e1d66" Panel.Bounds="128,304,0*,0*">
+                                    <Group.Children>
+                                        <Label RichText="&lt;Run FontSize=&quot;18&quot; &gt;Old Password:&lt;/Run&gt;" FontFamily="Open Sans" Id="baa35f47-0435-4768-9258-2652ca3e9508" Panel.Bounds="59,48,5*{5,2147483647},5*{5,2147483647}" />
+                                        <Label RichText="&lt;Run FontSize=&quot;18&quot; &gt;New Password:&lt;/Run&gt;" FontFamily="Open Sans" Id="b77c0aac-5605-4c4a-a0c7-cb419082d396" Panel.Bounds="51,93,5*{5,2147483647},5*{5,2147483647}" />
+                                        <Label RichText="&lt;Run FontSize=&quot;18&quot; &gt;New Password Again:&lt;/Run&gt;" FontFamily="Open Sans" Id="b67ffeb3-f41d-4c9c-b11e-5c2ee5f0b12b" Panel.Bounds="0,133,5*{5,2147483647},5*{5,2147483647}" />
+                                        <PasswordBox FontFamily="Open Sans" Tooltip="Enter Old Password" Id="26fa1078-a7f5-4a31-911c-d628b34caa91" Panel.Bounds="190,49,163{5,2147483647},5*{5,2147483647}" />
+                                        <PasswordBox FontFamily="Open Sans" Tooltip="Enter New Password" Id="bc054194-c6b2-4f3a-8769-beadaf3db6ae" Panel.Bounds="190,94,163{5,2147483647},5*{5,2147483647}" />
+                                        <PasswordBox FontFamily="Open Sans" Tooltip="Enter New Password Again" Id="e79857a2-23d9-4383-8d1d-5392ac90edd0" Panel.Bounds="190,134,163{5,2147483647},5*{5,2147483647}" />
+                                        <Label RichText="&lt;Run FontSize=&quot;18&quot; FontWeight=&quot;Bold&quot; &gt;Change Password:&lt;/Run&gt;" FontFamily="Open Sans" Id="e4643d4b-0dc0-4095-bf5d-ab9d460159a3" Panel.Bounds="101,0,5*{5,2147483647},5*{5,2147483647}" />
+                                    </Group.Children>
+                                </Group>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <ScreenPartInstance TemplateReference="/Screenparts/Back Button.screenpart" Id="984675b6-77f8-4340-b929-9bdce3022cc1" Panel.Bounds="124,173,5*{5,2147483647},5*{5,2147483647}">
+                                    <ScreenPartInstance.Click>
+                                        <CommandNavigate Screen="/HomeLogged.screen" Created="11/06/2017 17:45:03" Id="07ec9b04-c24c-4258-b4c4-0ac5050db7f0">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </ScreenPartInstance.Click>
+                                </ScreenPartInstance>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Title RichText="Pop-up window" FontFamily="Open Sans" Id="d975d951-186c-4dd7-8dcc-d53939721650" Panel.Bounds="281,63,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Label RichText="&lt;Run FontSize=&quot;18&quot; FontWeight=&quot;Bold&quot; &gt;Change Name&lt;/Run&gt;" FontFamily="Open Sans" Tooltip="Change Picture" Id="398a32c5-a056-44c1-9b52-83f51d7acf68" Panel.Bounds="619,439,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <TextBox FontFamily="Open Sans" Id="2d951b2f-3f33-42a8-9144-535c7241386b" Panel.Bounds="600,474,163{5,2147483647},0*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="3a199301-cdd4-4334-81ac-e01b001e1d66" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Button Text="Done" Background="#FFFF2E2E" BorderColor="#FF000000" CornerRadius="10" BorderThickness="2" Foreground="#FFFFFFFF" FontSize="24" FontFamily="Open Sans" FontStyle="Bold" Id="599eb457-3506-421a-a720-ddbe6841a09c" Panel.Bounds="401,515,80{5,2147483647},35{5,2147483647}">
+                                    <Button.Click>
+                                        <CommandNavigate Screen="/HomeLogged.screen" Created="11/06/2017 17:58:38" Id="68fdb448-5761-40e3-b38b-47e1cb638d35">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </Button.Click>
+                                </Button>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Button Text="Done" Background="#FFFF2E2E" BorderColor="#FF000000" CornerRadius="10" BorderThickness="2" Foreground="#FFFFFFFF" FontSize="24" FontFamily="Open Sans" FontStyle="Bold" Id="81657e2b-3ee8-4007-b71c-3a302dda8df3" Panel.Bounds="649,515,80{5,2147483647},35{5,2147483647}">
+                                    <Button.Click>
+                                        <CommandNavigate Screen="/HomeLogged.screen" Created="11/07/2017 15:25:53" Id="0ddb1443-6384-46fd-95f4-168c5f1e3235">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Type="Slide" Duration="300" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </Button.Click>
+                                </Button>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="38f9e9b5-c7b8-4604-b496-ac1a23fb5164">
+                            <Add.Item>
+                                <Button Text="Change pic" Background="#FFFF2E2E" BorderColor="#FF000000" CornerRadius="10" BorderThickness="2" Foreground="#FFFFFFFF" FontSize="24" FontFamily="Open Sans" FontStyle="Bold" Tooltip="Change Picture" Id="db86cc85-d4d7-46e1-9013-96442bda94e9" Panel.Bounds="608,352,155{5,2147483647},35{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+    </Page.Scenes>
+</Page>
