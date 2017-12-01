@@ -2,6 +2,6 @@
 {
     public class Configuration
     {
-        public const string ConnectionString = "Server=DESKTOP-RF7B1AL\\SQLEXPRESS;Database=BillsPaymentSystem;Integrated Security=True";
+        public const string ConnectionString = "Server=.;Database=BillsPaymentSystem;Integrated Security=True";
     }
 }
