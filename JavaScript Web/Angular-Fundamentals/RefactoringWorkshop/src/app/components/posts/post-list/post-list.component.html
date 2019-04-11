@@ -1,0 +1,10 @@
+<section id="viewCatalog">
+  <div class="posts">
+    <ng-template [ngIf]="allPosts">
+      <article *ngFor="let post of allPosts; let i = index;" class="post">
+        <app-post-info [post]="post" [isAuthor]="isAuthor(post)" [i]="i" (deleteEmmiter)="deletePost($event)">
+        </app-post-info>
+      </article>
+    </ng-template>
+  </div>
+</section>

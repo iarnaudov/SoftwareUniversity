@@ -1,0 +1,62 @@
+<main role="main">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">Popular Movies</h3>
+    </div>
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-2" *ngFor="let movie of popular$">
+          <div>
+            <app-movie-info [movie-info]="movie"></app-movie-info>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">In Theaters</h3>
+    </div>
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-2" *ngFor="let movie of theaters$">
+          <div>
+            <app-movie-info [movie-info]="movie"></app-movie-info>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">Kids Favorites</h3>
+    </div>
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-2" *ngFor="let movie of kids$">
+          <div>
+            <app-movie-info [movie-info]="movie"></app-movie-info>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">Best Drama This Year</h3>
+    </div>
+    <div class="panel-body">
+      <div class="row">
+        <div class="col-md-2" *ngFor="let movie of drama$">
+          <div>
+            <app-movie-info [movie-info]="movie"></app-movie-info>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</main>

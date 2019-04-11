@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Demo Server</title>
+    <link href="/css/site.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="nav">
+        <ul class="menu">
+            <li>
+                <a href="/">Home</a>
+            </li>
+            {{#unless currentUser}}
+                <li class="right">
+                    <a href="/users/register">Register</a>
+                </li>
+                <li class="right">
+                    <a href="/users/login">Login</a>
+                </li>
+            {{/unless}}
+
+            {{#if currentUser}}
+                <li class="right">
+                    <a href="/users/logout">Logout</a>
+                </li>
+                <li class="right">Welcome, {{currentUser.username}}!</li>
+            {{/if}}
+        </ul>
+    </div>
+    {{#if globalError}}
+        <div class="error">
+            {{globalError}}
+        </div>
+    {{/if}}
+    {{{body}}}
+</body>
+
+</html>
