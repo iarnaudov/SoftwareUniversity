@@ -1,0 +1,11 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\bin\Debug\netcoreapp2.1\StatePattern.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\StatePattern\obj\Debug\netcoreapp2.1\StatePattern.pdb

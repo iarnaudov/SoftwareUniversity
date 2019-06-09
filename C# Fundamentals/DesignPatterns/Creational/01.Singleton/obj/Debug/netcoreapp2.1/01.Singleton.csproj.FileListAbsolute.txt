@@ -1,0 +1,11 @@
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\obj\Debug\netcoreapp2.1\01.Singleton.csprojAssemblyReference.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\obj\Debug\netcoreapp2.1\01.Singleton.csproj.CoreCompileInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\obj\Debug\netcoreapp2.1\01.Singleton.AssemblyInfoInputs.cache
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\obj\Debug\netcoreapp2.1\01.Singleton.AssemblyInfo.cs
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\bin\Debug\netcoreapp2.1\01.Singleton.deps.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\bin\Debug\netcoreapp2.1\01.Singleton.runtimeconfig.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\bin\Debug\netcoreapp2.1\01.Singleton.runtimeconfig.dev.json
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\bin\Debug\netcoreapp2.1\01.Singleton.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\bin\Debug\netcoreapp2.1\01.Singleton.pdb
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\obj\Debug\netcoreapp2.1\01.Singleton.dll
+D:\Програмиране\SoftUni Homeworks\SoftUni - GitHub\SoftwareUniversity\C# Fundamentals\DesignPatterns\01. Singleton\obj\Debug\netcoreapp2.1\01.Singleton.pdb
